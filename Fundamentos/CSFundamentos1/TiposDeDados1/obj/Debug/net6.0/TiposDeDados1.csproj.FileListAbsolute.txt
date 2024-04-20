@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\TiposDeDados1\bin\Debug\net6.0\TiposDeDados1.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\TiposDeDados1\bin\Debug\net6.0\TiposDeDados1.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\TiposDeDados1\bin\Debug\net6.0\TiposDeDados1.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\TiposDeDados1\bin\Debug\net6.0\TiposDeDados1.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\TiposDeDados1\bin\Debug\net6.0\TiposDeDados1.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\TiposDeDados1\obj\Debug\net6.0\TiposDeDados1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\TiposDeDados1\obj\Debug\net6.0\TiposDeDados1.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\TiposDeDados1\obj\Debug\net6.0\TiposDeDados1.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\TiposDeDados1\obj\Debug\net6.0\TiposDeDados1.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\TiposDeDados1\obj\Debug\net6.0\TiposDeDados1.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\TiposDeDados1\obj\Debug\net6.0\TiposDeDados1.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\TiposDeDados1\obj\Debug\net6.0\refint\TiposDeDados1.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\TiposDeDados1\obj\Debug\net6.0\TiposDeDados1.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\TiposDeDados1\obj\Debug\net6.0\TiposDeDados1.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\TiposDeDados1\obj\Debug\net6.0\ref\TiposDeDados1.dll
