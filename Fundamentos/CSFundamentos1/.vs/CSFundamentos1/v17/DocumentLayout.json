@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\workspace\\CSharp-Essencial-.NET7\\Fundamentos\\CSFundamentos1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6A27CDF-60DB-41BE-9F47-8B03B2EBBB30}|TiposDeDados2\\TiposDeDados2.csproj|c:\\workspace\\csharp-essencial-.net7\\fundamentos\\csfundamentos1\\tiposdedados2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6A27CDF-60DB-41BE-9F47-8B03B2EBBB30}|TiposDeDados2\\TiposDeDados2.csproj|solutionrelative:tiposdedados2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7ABC766-2965-4F87-A217-7DAB640C5CFA}|TiposDeDados1\\TiposDeDados1.csproj|c:\\workspace\\csharp-essencial-.net7\\fundamentos\\csfundamentos1\\tiposdedados1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7ABC766-2965-4F87-A217-7DAB640C5CFA}|TiposDeDados1\\TiposDeDados1.csproj|solutionrelative:tiposdedados1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43F41D45-72C6-41FA-B69B-EA114BDCE72E}|TiposDeDados3\\TiposDeDados3.csproj|c:\\workspace\\csharp-essencial-.net7\\fundamentos\\csfundamentos1\\tiposdedados3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F41D45-72C6-41FA-B69B-EA114BDCE72E}|TiposDeDados3\\TiposDeDados3.csproj|solutionrelative:tiposdedados3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,26 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\workspace\\CSharp-Essencial-.NET7\\Fundamentos\\CSFundamentos1\\TiposDeDados2\\Program.cs",
-              "RelativeDocumentMoniker": "TiposDeDados2\\Program.cs",
-              "ToolTip": "C:\\workspace\\CSharp-Essencial-.NET7\\Fundamentos\\CSFundamentos1\\TiposDeDados2\\Program.cs",
-              "RelativeToolTip": "TiposDeDados2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
+              "DocumentMoniker": "C:\\workspace\\CSharp-Essencial-.NET7\\Fundamentos\\CSFundamentos1\\TiposDeDados3\\Program.cs",
+              "RelativeDocumentMoniker": "TiposDeDados3\\Program.cs",
+              "ToolTip": "C:\\workspace\\CSharp-Essencial-.NET7\\Fundamentos\\CSFundamentos1\\TiposDeDados3\\Program.cs",
+              "RelativeToolTip": "TiposDeDados3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T13:24:31.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\workspace\\CSharp-Essencial-.NET7\\Fundamentos\\CSFundamentos1\\TiposDeDados1\\Program.cs",
-              "RelativeDocumentMoniker": "TiposDeDados1\\Program.cs",
-              "ToolTip": "C:\\workspace\\CSharp-Essencial-.NET7\\Fundamentos\\CSFundamentos1\\TiposDeDados1\\Program.cs",
-              "RelativeToolTip": "TiposDeDados1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T13:24:11.636Z",
+              "WhenOpened": "2024-04-22T13:28:49.767Z",
               "EditorCaption": ""
             }
           ]
