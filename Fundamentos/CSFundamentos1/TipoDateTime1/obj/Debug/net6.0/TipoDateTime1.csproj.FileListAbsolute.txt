@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\TipoDateTime1\bin\Debug\net6.0\TipoDateTime1.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\TipoDateTime1\bin\Debug\net6.0\TipoDateTime1.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\TipoDateTime1\bin\Debug\net6.0\TipoDateTime1.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\TipoDateTime1\bin\Debug\net6.0\TipoDateTime1.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\TipoDateTime1\bin\Debug\net6.0\TipoDateTime1.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\TipoDateTime1\obj\Debug\net6.0\TipoDateTime1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\TipoDateTime1\obj\Debug\net6.0\TipoDateTime1.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\TipoDateTime1\obj\Debug\net6.0\TipoDateTime1.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\TipoDateTime1\obj\Debug\net6.0\TipoDateTime1.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\TipoDateTime1\obj\Debug\net6.0\TipoDateTime1.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\TipoDateTime1\obj\Debug\net6.0\TipoDateTime1.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\TipoDateTime1\obj\Debug\net6.0\refint\TipoDateTime1.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\TipoDateTime1\obj\Debug\net6.0\TipoDateTime1.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\TipoDateTime1\obj\Debug\net6.0\TipoDateTime1.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\TipoDateTime1\obj\Debug\net6.0\ref\TipoDateTime1.dll

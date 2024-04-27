@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workspace\\CSharp-Essencial-.NET7\\Fundamentos\\CSFundamentos1\\TiposDeDados1\\TiposDeDados1.csproj": {}
+    "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Fundamentos\\CSFundamentos1\\TiposDeDados1\\TiposDeDados1.csproj": {}
   },
   "projects": {
-    "C:\\workspace\\CSharp-Essencial-.NET7\\Fundamentos\\CSFundamentos1\\TiposDeDados1\\TiposDeDados1.csproj": {
+    "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Fundamentos\\CSFundamentos1\\TiposDeDados1\\TiposDeDados1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\CSharp-Essencial-.NET7\\Fundamentos\\CSFundamentos1\\TiposDeDados1\\TiposDeDados1.csproj",
+        "projectUniqueName": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Fundamentos\\CSFundamentos1\\TiposDeDados1\\TiposDeDados1.csproj",
         "projectName": "TiposDeDados1",
-        "projectPath": "C:\\workspace\\CSharp-Essencial-.NET7\\Fundamentos\\CSFundamentos1\\TiposDeDados1\\TiposDeDados1.csproj",
-        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\CSharp-Essencial-.NET7\\Fundamentos\\CSFundamentos1\\TiposDeDados1\\obj\\",
+        "projectPath": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Fundamentos\\CSFundamentos1\\TiposDeDados1\\TiposDeDados1.csproj",
+        "packagesPath": "C:\\Users\\Lukka\\.nuget\\packages\\",
+        "outputPath": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Fundamentos\\CSFundamentos1\\TiposDeDados1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lukka\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -39,11 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -65,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
