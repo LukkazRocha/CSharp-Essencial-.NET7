@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NullableTypes1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2376738aa3efd4e757db19987426ba6a92926970")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+650c07a3226c8493053a7c0aa5a5c5d135dd9c87")]
 [assembly: System.Reflection.AssemblyProductAttribute("NullableTypes1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NullableTypes1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
