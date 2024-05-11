@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\SaidaDados\bin\Debug\net6.0\SaidaDados.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\SaidaDados\bin\Debug\net6.0\SaidaDados.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\SaidaDados\bin\Debug\net6.0\SaidaDados.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\SaidaDados\bin\Debug\net6.0\SaidaDados.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\SaidaDados\bin\Debug\net6.0\SaidaDados.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\SaidaDados\obj\Debug\net6.0\SaidaDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\SaidaDados\obj\Debug\net6.0\SaidaDados.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\SaidaDados\obj\Debug\net6.0\SaidaDados.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\SaidaDados\obj\Debug\net6.0\SaidaDados.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\SaidaDados\obj\Debug\net6.0\SaidaDados.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\SaidaDados\obj\Debug\net6.0\SaidaDados.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\SaidaDados\obj\Debug\net6.0\refint\SaidaDados.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\SaidaDados\obj\Debug\net6.0\SaidaDados.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\SaidaDados\obj\Debug\net6.0\SaidaDados.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\SaidaDados\obj\Debug\net6.0\ref\SaidaDados.dll
