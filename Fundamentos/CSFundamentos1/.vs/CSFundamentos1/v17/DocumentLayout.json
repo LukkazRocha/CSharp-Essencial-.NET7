@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Fundamentos\\CSFundamentos1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B82B7DDF-5949-4C20-9E98-37E60F54F164}|SaidaDados2\\SaidaDados2.csproj|d:\\lucas\\workspace\\csharp-essencial-.net7\\fundamentos\\csfundamentos1\\saidadados2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B82B7DDF-5949-4C20-9E98-37E60F54F164}|SaidaDados2\\SaidaDados2.csproj|solutionrelative:saidadados2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C7B6842-3117-4B69-96A8-BF1ED955A592}|1ConversaoTipos\\1ConversaoTipos.csproj|d:\\lucas\\workspace\\csharp-essencial-.net7\\fundamentos\\csfundamentos1\\1conversaotipos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7B6842-3117-4B69-96A8-BF1ED955A592}|1ConversaoTipos\\1ConversaoTipos.csproj|solutionrelative:1conversaotipos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Fundamentos\\CSFundamentos1\\SaidaDados2\\Program.cs",
-              "RelativeDocumentMoniker": "SaidaDados2\\Program.cs",
-              "ToolTip": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Fundamentos\\CSFundamentos1\\SaidaDados2\\Program.cs",
-              "RelativeToolTip": "SaidaDados2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "DocumentMoniker": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Fundamentos\\CSFundamentos1\\1ConversaoTipos\\Program.cs",
+              "RelativeDocumentMoniker": "1ConversaoTipos\\Program.cs",
+              "ToolTip": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Fundamentos\\CSFundamentos1\\1ConversaoTipos\\Program.cs",
+              "RelativeToolTip": "1ConversaoTipos\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAD8AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T18:35:22.63Z",
+              "WhenOpened": "2024-05-11T18:49:31.763Z",
               "EditorCaption": ""
             }
           ]

@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipoDateTime1", "TipoDateTi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullableTypes1", "NullableTypes1\NullableTypes1.csproj", "{E7AAF844-7AE1-478B-9F25-2ECADD31E399}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaidaDados", "SaidaDados\SaidaDados.csproj", "{5CF37A08-DDC9-4303-839C-77DE589078A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaidaDados", "SaidaDados\SaidaDados.csproj", "{5CF37A08-DDC9-4303-839C-77DE589078A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaidaDados2", "SaidaDados2\SaidaDados2.csproj", "{B82B7DDF-5949-4C20-9E98-37E60F54F164}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaidaDados2", "SaidaDados2\SaidaDados2.csproj", "{B82B7DDF-5949-4C20-9E98-37E60F54F164}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1ConversaoTipos", "1ConversaoTipos\1ConversaoTipos.csproj", "{9C7B6842-3117-4B69-96A8-BF1ED955A592}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{B82B7DDF-5949-4C20-9E98-37E60F54F164}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B82B7DDF-5949-4C20-9E98-37E60F54F164}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B82B7DDF-5949-4C20-9E98-37E60F54F164}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C7B6842-3117-4B69-96A8-BF1ED955A592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C7B6842-3117-4B69-96A8-BF1ED955A592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C7B6842-3117-4B69-96A8-BF1ED955A592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C7B6842-3117-4B69-96A8-BF1ED955A592}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

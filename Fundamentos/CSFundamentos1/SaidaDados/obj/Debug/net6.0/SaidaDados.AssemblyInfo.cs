@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SaidaDados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d34bf5477cfa9e95cfa79722053a71128e2c9227")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d9de4f5227991d4a7bffc4ac9f18183ffa97f8a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SaidaDados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SaidaDados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

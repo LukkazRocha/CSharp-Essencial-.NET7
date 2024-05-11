@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\1ConversaoTipos\bin\Debug\net6.0\1ConversaoTipos.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\1ConversaoTipos\bin\Debug\net6.0\1ConversaoTipos.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\1ConversaoTipos\bin\Debug\net6.0\1ConversaoTipos.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\1ConversaoTipos\bin\Debug\net6.0\1ConversaoTipos.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\1ConversaoTipos\bin\Debug\net6.0\1ConversaoTipos.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\1ConversaoTipos\obj\Debug\net6.0\1ConversaoTipos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\1ConversaoTipos\obj\Debug\net6.0\1ConversaoTipos.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\1ConversaoTipos\obj\Debug\net6.0\1ConversaoTipos.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\1ConversaoTipos\obj\Debug\net6.0\1ConversaoTipos.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\1ConversaoTipos\obj\Debug\net6.0\1ConversaoTipos.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\1ConversaoTipos\obj\Debug\net6.0\1ConversaoTipos.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\1ConversaoTipos\obj\Debug\net6.0\refint\1ConversaoTipos.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\1ConversaoTipos\obj\Debug\net6.0\1ConversaoTipos.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\1ConversaoTipos\obj\Debug\net6.0\1ConversaoTipos.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\1ConversaoTipos\obj\Debug\net6.0\ref\1ConversaoTipos.dll
