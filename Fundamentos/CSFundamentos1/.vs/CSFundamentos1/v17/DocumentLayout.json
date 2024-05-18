@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Fundamentos\\CSFundamentos1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C7B6842-3117-4B69-96A8-BF1ED955A592}|1ConversaoTipos\\1ConversaoTipos.csproj|d:\\lucas\\workspace\\csharp-essencial-.net7\\fundamentos\\csfundamentos1\\1conversaotipos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C7B6842-3117-4B69-96A8-BF1ED955A592}|1ConversaoTipos\\1ConversaoTipos.csproj|solutionrelative:1conversaotipos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40114CDE-532D-4C44-9722-F9E095C4A72D}|OperadoresAritmeticos\\OperadoresAritmeticos.csproj|d:\\lucas\\workspace\\csharp-essencial-.net7\\fundamentos\\csfundamentos1\\operadoresaritmeticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40114CDE-532D-4C44-9722-F9E095C4A72D}|OperadoresAritmeticos\\OperadoresAritmeticos.csproj|solutionrelative:operadoresaritmeticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Fundamentos\\CSFundamentos1\\1ConversaoTipos\\Program.cs",
-              "RelativeDocumentMoniker": "1ConversaoTipos\\Program.cs",
-              "ToolTip": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Fundamentos\\CSFundamentos1\\1ConversaoTipos\\Program.cs",
-              "RelativeToolTip": "1ConversaoTipos\\Program.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAAAD8AAAAwAAAA",
+              "DocumentMoniker": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Fundamentos\\CSFundamentos1\\OperadoresAritmeticos\\Program.cs",
+              "RelativeDocumentMoniker": "OperadoresAritmeticos\\Program.cs",
+              "ToolTip": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Fundamentos\\CSFundamentos1\\OperadoresAritmeticos\\Program.cs",
+              "RelativeToolTip": "OperadoresAritmeticos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T18:49:31.763Z",
+              "WhenOpened": "2024-05-18T18:41:01.337Z",
               "EditorCaption": ""
             }
           ]
