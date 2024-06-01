@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadoresRelacionais1\bin\Debug\net6.0\OperadoresRelacionais1.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadoresRelacionais1\bin\Debug\net6.0\OperadoresRelacionais1.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadoresRelacionais1\bin\Debug\net6.0\OperadoresRelacionais1.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadoresRelacionais1\bin\Debug\net6.0\OperadoresRelacionais1.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadoresRelacionais1\bin\Debug\net6.0\OperadoresRelacionais1.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadoresRelacionais1\obj\Debug\net6.0\OperadoresRelacionais1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadoresRelacionais1\obj\Debug\net6.0\OperadoresRelacionais1.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadoresRelacionais1\obj\Debug\net6.0\OperadoresRelacionais1.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadoresRelacionais1\obj\Debug\net6.0\OperadoresRelacionais1.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadoresRelacionais1\obj\Debug\net6.0\OperadoresRelacionais1.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadoresRelacionais1\obj\Debug\net6.0\OperadoresRelacionais1.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadoresRelacionais1\obj\Debug\net6.0\refint\OperadoresRelacionais1.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadoresRelacionais1\obj\Debug\net6.0\OperadoresRelacionais1.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadoresRelacionais1\obj\Debug\net6.0\OperadoresRelacionais1.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadoresRelacionais1\obj\Debug\net6.0\ref\OperadoresRelacionais1.dll

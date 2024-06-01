@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\InferenciaTipos1\bin\Debug\net6.0\InferenciaTipos1.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\InferenciaTipos1\bin\Debug\net6.0\InferenciaTipos1.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\InferenciaTipos1\bin\Debug\net6.0\InferenciaTipos1.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\InferenciaTipos1\bin\Debug\net6.0\InferenciaTipos1.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\InferenciaTipos1\bin\Debug\net6.0\InferenciaTipos1.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\InferenciaTipos1\obj\Debug\net6.0\InferenciaTipos1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\InferenciaTipos1\obj\Debug\net6.0\InferenciaTipos1.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\InferenciaTipos1\obj\Debug\net6.0\InferenciaTipos1.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\InferenciaTipos1\obj\Debug\net6.0\InferenciaTipos1.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\InferenciaTipos1\obj\Debug\net6.0\InferenciaTipos1.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\InferenciaTipos1\obj\Debug\net6.0\InferenciaTipos1.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\InferenciaTipos1\obj\Debug\net6.0\refint\InferenciaTipos1.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\InferenciaTipos1\obj\Debug\net6.0\InferenciaTipos1.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\InferenciaTipos1\obj\Debug\net6.0\InferenciaTipos1.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\InferenciaTipos1\obj\Debug\net6.0\ref\InferenciaTipos1.dll

@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadoresAtribuicao1\bin\Debug\net6.0\OperadoresAtribuicao1.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadoresAtribuicao1\bin\Debug\net6.0\OperadoresAtribuicao1.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadoresAtribuicao1\bin\Debug\net6.0\OperadoresAtribuicao1.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadoresAtribuicao1\bin\Debug\net6.0\OperadoresAtribuicao1.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadoresAtribuicao1\bin\Debug\net6.0\OperadoresAtribuicao1.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadoresAtribuicao1\obj\Debug\net6.0\OperadoresAtribuicao1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadoresAtribuicao1\obj\Debug\net6.0\OperadoresAtribuicao1.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadoresAtribuicao1\obj\Debug\net6.0\OperadoresAtribuicao1.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadoresAtribuicao1\obj\Debug\net6.0\OperadoresAtribuicao1.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadoresAtribuicao1\obj\Debug\net6.0\OperadoresAtribuicao1.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadoresAtribuicao1\obj\Debug\net6.0\OperadoresAtribuicao1.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadoresAtribuicao1\obj\Debug\net6.0\refint\OperadoresAtribuicao1.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadoresAtribuicao1\obj\Debug\net6.0\OperadoresAtribuicao1.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadoresAtribuicao1\obj\Debug\net6.0\OperadoresAtribuicao1.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadoresAtribuicao1\obj\Debug\net6.0\ref\OperadoresAtribuicao1.dll
