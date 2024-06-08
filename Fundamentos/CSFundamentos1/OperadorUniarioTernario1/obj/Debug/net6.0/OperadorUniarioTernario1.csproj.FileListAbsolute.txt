@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadorUniarioTernario1\bin\Debug\net6.0\OperadorUniarioTernario1.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadorUniarioTernario1\bin\Debug\net6.0\OperadorUniarioTernario1.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadorUniarioTernario1\bin\Debug\net6.0\OperadorUniarioTernario1.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadorUniarioTernario1\bin\Debug\net6.0\OperadorUniarioTernario1.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadorUniarioTernario1\bin\Debug\net6.0\OperadorUniarioTernario1.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadorUniarioTernario1\obj\Debug\net6.0\OperadorUniarioTernario1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadorUniarioTernario1\obj\Debug\net6.0\OperadorUniarioTernario1.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadorUniarioTernario1\obj\Debug\net6.0\OperadorUniarioTernario1.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadorUniarioTernario1\obj\Debug\net6.0\OperadorUniarioTernario1.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadorUniarioTernario1\obj\Debug\net6.0\OperadorUniarioTernario1.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadorUniarioTernario1\obj\Debug\net6.0\OperadorUniarioTernario1.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadorUniarioTernario1\obj\Debug\net6.0\refint\OperadorUniarioTernario1.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadorUniarioTernario1\obj\Debug\net6.0\OperadorUniarioTernario1.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadorUniarioTernario1\obj\Debug\net6.0\OperadorUniarioTernario1.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Fundamentos\CSFundamentos1\OperadorUniarioTernario1\obj\Debug\net6.0\ref\OperadorUniarioTernario1.dll
