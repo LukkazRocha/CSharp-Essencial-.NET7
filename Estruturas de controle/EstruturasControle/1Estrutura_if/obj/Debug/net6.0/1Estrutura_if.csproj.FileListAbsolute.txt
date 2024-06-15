@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\1Estrutura_if\bin\Debug\net6.0\1Estrutura_if.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\1Estrutura_if\bin\Debug\net6.0\1Estrutura_if.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\1Estrutura_if\bin\Debug\net6.0\1Estrutura_if.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\1Estrutura_if\bin\Debug\net6.0\1Estrutura_if.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\1Estrutura_if\bin\Debug\net6.0\1Estrutura_if.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\1Estrutura_if\obj\Debug\net6.0\1Estrutura_if.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\1Estrutura_if\obj\Debug\net6.0\1Estrutura_if.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\1Estrutura_if\obj\Debug\net6.0\1Estrutura_if.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\1Estrutura_if\obj\Debug\net6.0\1Estrutura_if.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\1Estrutura_if\obj\Debug\net6.0\1Estrutura_if.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\1Estrutura_if\obj\Debug\net6.0\1Estrutura_if.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\1Estrutura_if\obj\Debug\net6.0\refint\1Estrutura_if.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\1Estrutura_if\obj\Debug\net6.0\1Estrutura_if.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\1Estrutura_if\obj\Debug\net6.0\1Estrutura_if.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\1Estrutura_if\obj\Debug\net6.0\ref\1Estrutura_if.dll
