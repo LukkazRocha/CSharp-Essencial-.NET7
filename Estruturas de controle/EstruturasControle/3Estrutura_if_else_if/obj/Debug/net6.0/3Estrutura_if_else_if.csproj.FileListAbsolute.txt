@@ -1,0 +1,15 @@
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\3Estrutura_if_else_if\bin\Debug\net6.0\3Estrutura_if_else_if.exe
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\3Estrutura_if_else_if\bin\Debug\net6.0\3Estrutura_if_else_if.deps.json
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\3Estrutura_if_else_if\bin\Debug\net6.0\3Estrutura_if_else_if.runtimeconfig.json
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\3Estrutura_if_else_if\bin\Debug\net6.0\3Estrutura_if_else_if.dll
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\3Estrutura_if_else_if\bin\Debug\net6.0\3Estrutura_if_else_if.pdb
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\3Estrutura_if_else_if\obj\Debug\net6.0\3Estrutura_if_else_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\3Estrutura_if_else_if\obj\Debug\net6.0\3Estrutura_if_else_if.AssemblyInfoInputs.cache
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\3Estrutura_if_else_if\obj\Debug\net6.0\3Estrutura_if_else_if.AssemblyInfo.cs
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\3Estrutura_if_else_if\obj\Debug\net6.0\3Estrutura_if_else_if.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\3Estrutura_if_else_if\obj\Debug\net6.0\3Estrutura_if_else_if.sourcelink.json
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\3Estrutura_if_else_if\obj\Debug\net6.0\3Estrutura_if_else_if.dll
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\3Estrutura_if_else_if\obj\Debug\net6.0\refint\3Estrutura_if_else_if.dll
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\3Estrutura_if_else_if\obj\Debug\net6.0\3Estrutura_if_else_if.pdb
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\3Estrutura_if_else_if\obj\Debug\net6.0\3Estrutura_if_else_if.genruntimeconfig.cache
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\3Estrutura_if_else_if\obj\Debug\net6.0\ref\3Estrutura_if_else_if.dll
