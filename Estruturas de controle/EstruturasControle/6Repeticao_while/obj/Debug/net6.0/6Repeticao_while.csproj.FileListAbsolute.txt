@@ -1,0 +1,15 @@
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\6Repeticao_while\bin\Debug\net6.0\6Repeticao_while.exe
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\6Repeticao_while\bin\Debug\net6.0\6Repeticao_while.deps.json
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\6Repeticao_while\bin\Debug\net6.0\6Repeticao_while.runtimeconfig.json
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\6Repeticao_while\bin\Debug\net6.0\6Repeticao_while.dll
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\6Repeticao_while\bin\Debug\net6.0\6Repeticao_while.pdb
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\6Repeticao_while\obj\Debug\net6.0\6Repeticao_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\6Repeticao_while\obj\Debug\net6.0\6Repeticao_while.AssemblyInfoInputs.cache
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\6Repeticao_while\obj\Debug\net6.0\6Repeticao_while.AssemblyInfo.cs
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\6Repeticao_while\obj\Debug\net6.0\6Repeticao_while.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\6Repeticao_while\obj\Debug\net6.0\6Repeticao_while.sourcelink.json
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\6Repeticao_while\obj\Debug\net6.0\6Repeticao_while.dll
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\6Repeticao_while\obj\Debug\net6.0\refint\6Repeticao_while.dll
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\6Repeticao_while\obj\Debug\net6.0\6Repeticao_while.pdb
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\6Repeticao_while\obj\Debug\net6.0\6Repeticao_while.genruntimeconfig.cache
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\6Repeticao_while\obj\Debug\net6.0\ref\6Repeticao_while.dll

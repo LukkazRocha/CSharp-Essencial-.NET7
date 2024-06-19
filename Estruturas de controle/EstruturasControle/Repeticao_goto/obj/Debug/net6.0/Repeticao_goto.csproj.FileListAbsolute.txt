@@ -1,0 +1,15 @@
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\Repeticao_goto\bin\Debug\net6.0\Repeticao_goto.exe
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\Repeticao_goto\bin\Debug\net6.0\Repeticao_goto.deps.json
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\Repeticao_goto\bin\Debug\net6.0\Repeticao_goto.runtimeconfig.json
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\Repeticao_goto\bin\Debug\net6.0\Repeticao_goto.dll
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\Repeticao_goto\bin\Debug\net6.0\Repeticao_goto.pdb
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\Repeticao_goto\obj\Debug\net6.0\Repeticao_goto.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\Repeticao_goto\obj\Debug\net6.0\Repeticao_goto.AssemblyInfoInputs.cache
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\Repeticao_goto\obj\Debug\net6.0\Repeticao_goto.AssemblyInfo.cs
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\Repeticao_goto\obj\Debug\net6.0\Repeticao_goto.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\Repeticao_goto\obj\Debug\net6.0\Repeticao_goto.sourcelink.json
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\Repeticao_goto\obj\Debug\net6.0\Repeticao_goto.dll
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\Repeticao_goto\obj\Debug\net6.0\refint\Repeticao_goto.dll
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\Repeticao_goto\obj\Debug\net6.0\Repeticao_goto.pdb
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\Repeticao_goto\obj\Debug\net6.0\Repeticao_goto.genruntimeconfig.cache
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\Repeticao_goto\obj\Debug\net6.0\ref\Repeticao_goto.dll

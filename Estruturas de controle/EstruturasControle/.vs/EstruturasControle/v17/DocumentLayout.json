@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\workspace\\CSharp-Essencial-.NET7\\Estruturas de controle\\EstruturasControle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{211FC45B-6C38-4FAB-8AC7-6870B33A4196}|4Estrutura_switch_case\\4Estrutura_switch_case.csproj|c:\\workspace\\csharp-essencial-.net7\\estruturas de controle\\estruturascontrole\\4estrutura_switch_case\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211FC45B-6C38-4FAB-8AC7-6870B33A4196}|4Estrutura_switch_case\\4Estrutura_switch_case.csproj|solutionrelative:4estrutura_switch_case\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1F2FC0D-11AB-493C-A5B9-1978BBF803D7}|3Estrutura_if_else_if\\3Estrutura_if_else_if.csproj|c:\\workspace\\csharp-essencial-.net7\\estruturas de controle\\estruturascontrole\\3estrutura_if_else_if\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F2FC0D-11AB-493C-A5B9-1978BBF803D7}|3Estrutura_if_else_if\\3Estrutura_if_else_if.csproj|solutionrelative:3estrutura_if_else_if\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4EF93BD3-916F-4674-A609-5FBF16140A93}|6Repeticao_while\\6Repeticao_while.csproj|c:\\workspace\\csharp-essencial-.net7\\estruturas de controle\\estruturascontrole\\6repeticao_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF93BD3-916F-4674-A609-5FBF16140A93}|6Repeticao_while\\6Repeticao_while.csproj|solutionrelative:6repeticao_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -64,26 +60,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\workspace\\CSharp-Essencial-.NET7\\Estruturas de controle\\EstruturasControle\\4Estrutura_switch_case\\Program.cs",
-              "RelativeDocumentMoniker": "4Estrutura_switch_case\\Program.cs",
-              "ToolTip": "C:\\workspace\\CSharp-Essencial-.NET7\\Estruturas de controle\\EstruturasControle\\4Estrutura_switch_case\\Program.cs",
-              "RelativeToolTip": "4Estrutura_switch_case\\Program.cs",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAkwGAAAAA4AAAA",
+              "DocumentMoniker": "C:\\workspace\\CSharp-Essencial-.NET7\\Estruturas de controle\\EstruturasControle\\6Repeticao_while\\Program.cs",
+              "RelativeDocumentMoniker": "6Repeticao_while\\Program.cs",
+              "ToolTip": "C:\\workspace\\CSharp-Essencial-.NET7\\Estruturas de controle\\EstruturasControle\\6Repeticao_while\\Program.cs",
+              "RelativeToolTip": "6Repeticao_while\\Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEMAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T16:33:35.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\workspace\\CSharp-Essencial-.NET7\\Estruturas de controle\\EstruturasControle\\3Estrutura_if_else_if\\Program.cs",
-              "RelativeDocumentMoniker": "3Estrutura_if_else_if\\Program.cs",
-              "ToolTip": "C:\\workspace\\CSharp-Essencial-.NET7\\Estruturas de controle\\EstruturasControle\\3Estrutura_if_else_if\\Program.cs",
-              "RelativeToolTip": "3Estrutura_if_else_if\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T19:30:14.248Z",
+              "WhenOpened": "2024-06-19T16:30:59.155Z",
               "EditorCaption": ""
             }
           ]
