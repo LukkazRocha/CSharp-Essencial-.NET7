@@ -1,0 +1,15 @@
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\9Repeticao_for\bin\Debug\net6.0\9Repeticao_for.exe
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\9Repeticao_for\bin\Debug\net6.0\9Repeticao_for.deps.json
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\9Repeticao_for\bin\Debug\net6.0\9Repeticao_for.runtimeconfig.json
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\9Repeticao_for\bin\Debug\net6.0\9Repeticao_for.dll
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\9Repeticao_for\bin\Debug\net6.0\9Repeticao_for.pdb
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\9Repeticao_for\obj\Debug\net6.0\9Repeticao_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\9Repeticao_for\obj\Debug\net6.0\9Repeticao_for.AssemblyInfoInputs.cache
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\9Repeticao_for\obj\Debug\net6.0\9Repeticao_for.AssemblyInfo.cs
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\9Repeticao_for\obj\Debug\net6.0\9Repeticao_for.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\9Repeticao_for\obj\Debug\net6.0\9Repeticao_for.sourcelink.json
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\9Repeticao_for\obj\Debug\net6.0\9Repeticao_for.dll
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\9Repeticao_for\obj\Debug\net6.0\refint\9Repeticao_for.dll
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\9Repeticao_for\obj\Debug\net6.0\9Repeticao_for.pdb
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\9Repeticao_for\obj\Debug\net6.0\9Repeticao_for.genruntimeconfig.cache
+C:\workspace\CSharp-Essencial-.NET7\Estruturas de controle\EstruturasControle\9Repeticao_for\obj\Debug\net6.0\ref\9Repeticao_for.dll
