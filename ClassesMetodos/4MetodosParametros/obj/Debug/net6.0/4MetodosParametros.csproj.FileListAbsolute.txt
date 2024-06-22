@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\4MetodosParametros\bin\Debug\net6.0\4MetodosParametros.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\4MetodosParametros\bin\Debug\net6.0\4MetodosParametros.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\4MetodosParametros\bin\Debug\net6.0\4MetodosParametros.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\4MetodosParametros\bin\Debug\net6.0\4MetodosParametros.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\4MetodosParametros\bin\Debug\net6.0\4MetodosParametros.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\4MetodosParametros\obj\Debug\net6.0\4MetodosParametros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\4MetodosParametros\obj\Debug\net6.0\4MetodosParametros.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\4MetodosParametros\obj\Debug\net6.0\4MetodosParametros.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\4MetodosParametros\obj\Debug\net6.0\4MetodosParametros.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\4MetodosParametros\obj\Debug\net6.0\4MetodosParametros.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\4MetodosParametros\obj\Debug\net6.0\4MetodosParametros.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\4MetodosParametros\obj\Debug\net6.0\refint\4MetodosParametros.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\4MetodosParametros\obj\Debug\net6.0\4MetodosParametros.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\4MetodosParametros\obj\Debug\net6.0\4MetodosParametros.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\4MetodosParametros\obj\Debug\net6.0\ref\4MetodosParametros.dll
