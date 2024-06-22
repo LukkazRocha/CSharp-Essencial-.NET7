@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workspace\\CSharp-Essencial-.NET7\\Estruturas de controle\\EstruturasControle\\8Repeticao_for\\8Repeticao_for.csproj": {}
+    "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Estruturas de controle\\EstruturasControle\\8Repeticao_for\\8Repeticao_for.csproj": {}
   },
   "projects": {
-    "C:\\workspace\\CSharp-Essencial-.NET7\\Estruturas de controle\\EstruturasControle\\8Repeticao_for\\8Repeticao_for.csproj": {
+    "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Estruturas de controle\\EstruturasControle\\8Repeticao_for\\8Repeticao_for.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\CSharp-Essencial-.NET7\\Estruturas de controle\\EstruturasControle\\8Repeticao_for\\8Repeticao_for.csproj",
+        "projectUniqueName": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Estruturas de controle\\EstruturasControle\\8Repeticao_for\\8Repeticao_for.csproj",
         "projectName": "8Repeticao_for",
-        "projectPath": "C:\\workspace\\CSharp-Essencial-.NET7\\Estruturas de controle\\EstruturasControle\\8Repeticao_for\\8Repeticao_for.csproj",
-        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\CSharp-Essencial-.NET7\\Estruturas de controle\\EstruturasControle\\8Repeticao_for\\obj\\",
+        "projectPath": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Estruturas de controle\\EstruturasControle\\8Repeticao_for\\8Repeticao_for.csproj",
+        "packagesPath": "C:\\Users\\Lukka\\.nuget\\packages\\",
+        "outputPath": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Estruturas de controle\\EstruturasControle\\8Repeticao_for\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lukka\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
