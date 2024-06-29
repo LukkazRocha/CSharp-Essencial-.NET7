@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\7MetodosComRetorno2\bin\Debug\net6.0\7MetodosComRetorno2.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\7MetodosComRetorno2\bin\Debug\net6.0\7MetodosComRetorno2.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\7MetodosComRetorno2\bin\Debug\net6.0\7MetodosComRetorno2.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\7MetodosComRetorno2\bin\Debug\net6.0\7MetodosComRetorno2.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\7MetodosComRetorno2\bin\Debug\net6.0\7MetodosComRetorno2.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\7MetodosComRetorno2\obj\Debug\net6.0\7MetodosComRetorno2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\7MetodosComRetorno2\obj\Debug\net6.0\7MetodosComRetorno2.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\7MetodosComRetorno2\obj\Debug\net6.0\7MetodosComRetorno2.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\7MetodosComRetorno2\obj\Debug\net6.0\7MetodosComRetorno2.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\7MetodosComRetorno2\obj\Debug\net6.0\7MetodosComRetorno2.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\7MetodosComRetorno2\obj\Debug\net6.0\7MetodosComRetorno2.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\7MetodosComRetorno2\obj\Debug\net6.0\refint\7MetodosComRetorno2.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\7MetodosComRetorno2\obj\Debug\net6.0\7MetodosComRetorno2.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\7MetodosComRetorno2\obj\Debug\net6.0\7MetodosComRetorno2.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\7MetodosComRetorno2\obj\Debug\net6.0\ref\7MetodosComRetorno2.dll

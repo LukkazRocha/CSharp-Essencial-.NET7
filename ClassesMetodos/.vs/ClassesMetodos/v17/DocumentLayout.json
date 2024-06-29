@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\ClassesMetodos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B894686B-7DC0-429D-8425-F88B5E5816A0}|5Construtores\\5Construtores.csproj|d:\\lucas\\workspace\\csharp-essencial-.net7\\classesmetodos\\5construtores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B894686B-7DC0-429D-8425-F88B5E5816A0}|5Construtores\\5Construtores.csproj|solutionrelative:5construtores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADB4B90D-2591-4B4F-BA02-345272076654}|4MetodosParametros\\4MetodosParametros.csproj|d:\\lucas\\workspace\\csharp-essencial-.net7\\classesmetodos\\4metodosparametros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADB4B90D-2591-4B4F-BA02-345272076654}|4MetodosParametros\\4MetodosParametros.csproj|solutionrelative:4metodosparametros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEF6D8C3-8138-4690-87D5-FB706B20881A}|7MetodosComRetorno2\\7MetodosComRetorno2.csproj|d:\\lucas\\workspace\\csharp-essencial-.net7\\classesmetodos\\7metodoscomretorno2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF6D8C3-8138-4690-87D5-FB706B20881A}|7MetodosComRetorno2\\7MetodosComRetorno2.csproj|solutionrelative:7metodoscomretorno2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,28 +58,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\ClassesMetodos\\4MetodosParametros\\Program.cs",
-              "RelativeDocumentMoniker": "4MetodosParametros\\Program.cs",
-              "ToolTip": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\ClassesMetodos\\4MetodosParametros\\Program.cs",
-              "RelativeToolTip": "4MetodosParametros\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T19:40:00.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\ClassesMetodos\\5Construtores\\Program.cs",
-              "RelativeDocumentMoniker": "5Construtores\\Program.cs",
-              "ToolTip": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\ClassesMetodos\\5Construtores\\Program.cs",
-              "RelativeToolTip": "5Construtores\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "DocumentMoniker": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\ClassesMetodos\\7MetodosComRetorno2\\Program.cs",
+              "RelativeDocumentMoniker": "7MetodosComRetorno2\\Program.cs",
+              "ToolTip": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\ClassesMetodos\\7MetodosComRetorno2\\Program.cs",
+              "RelativeToolTip": "7MetodosComRetorno2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T19:39:12.728Z",
+              "WhenOpened": "2024-06-29T18:45:57.014Z",
               "EditorCaption": ""
             }
           ]
