@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\9Metodos_ArgumentosNomeados\bin\Debug\net6.0\9Metodos_ArgumentosNomeados.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\9Metodos_ArgumentosNomeados\bin\Debug\net6.0\9Metodos_ArgumentosNomeados.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\9Metodos_ArgumentosNomeados\bin\Debug\net6.0\9Metodos_ArgumentosNomeados.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\9Metodos_ArgumentosNomeados\bin\Debug\net6.0\9Metodos_ArgumentosNomeados.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\9Metodos_ArgumentosNomeados\bin\Debug\net6.0\9Metodos_ArgumentosNomeados.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\9Metodos_ArgumentosNomeados\obj\Debug\net6.0\9Metodos_ArgumentosNomeados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\9Metodos_ArgumentosNomeados\obj\Debug\net6.0\9Metodos_ArgumentosNomeados.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\9Metodos_ArgumentosNomeados\obj\Debug\net6.0\9Metodos_ArgumentosNomeados.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\9Metodos_ArgumentosNomeados\obj\Debug\net6.0\9Metodos_ArgumentosNomeados.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\9Metodos_ArgumentosNomeados\obj\Debug\net6.0\9Metodos_ArgumentosNomeados.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\9Metodos_ArgumentosNomeados\obj\Debug\net6.0\9Metodos_ArgumentosNomeados.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\9Metodos_ArgumentosNomeados\obj\Debug\net6.0\refint\9Metodos_ArgumentosNomeados.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\9Metodos_ArgumentosNomeados\obj\Debug\net6.0\9Metodos_ArgumentosNomeados.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\9Metodos_ArgumentosNomeados\obj\Debug\net6.0\9Metodos_ArgumentosNomeados.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\9Metodos_ArgumentosNomeados\obj\Debug\net6.0\ref\9Metodos_ArgumentosNomeados.dll

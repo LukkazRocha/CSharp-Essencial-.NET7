@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\10Metodos_ParametrosOpcionais\bin\Debug\net6.0\10Metodos_ParametrosOpcionais.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\10Metodos_ParametrosOpcionais\bin\Debug\net6.0\10Metodos_ParametrosOpcionais.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\10Metodos_ParametrosOpcionais\bin\Debug\net6.0\10Metodos_ParametrosOpcionais.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\10Metodos_ParametrosOpcionais\bin\Debug\net6.0\10Metodos_ParametrosOpcionais.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\10Metodos_ParametrosOpcionais\bin\Debug\net6.0\10Metodos_ParametrosOpcionais.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\10Metodos_ParametrosOpcionais\obj\Debug\net6.0\10Metodos_ParametrosOpcionais.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\10Metodos_ParametrosOpcionais\obj\Debug\net6.0\10Metodos_ParametrosOpcionais.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\10Metodos_ParametrosOpcionais\obj\Debug\net6.0\10Metodos_ParametrosOpcionais.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\10Metodos_ParametrosOpcionais\obj\Debug\net6.0\10Metodos_ParametrosOpcionais.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\10Metodos_ParametrosOpcionais\obj\Debug\net6.0\10Metodos_ParametrosOpcionais.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\10Metodos_ParametrosOpcionais\obj\Debug\net6.0\10Metodos_ParametrosOpcionais.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\10Metodos_ParametrosOpcionais\obj\Debug\net6.0\refint\10Metodos_ParametrosOpcionais.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\10Metodos_ParametrosOpcionais\obj\Debug\net6.0\10Metodos_ParametrosOpcionais.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\10Metodos_ParametrosOpcionais\obj\Debug\net6.0\10Metodos_ParametrosOpcionais.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\10Metodos_ParametrosOpcionais\obj\Debug\net6.0\ref\10Metodos_ParametrosOpcionais.dll

@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\13PassagemParametrosReferencia_out\bin\Debug\net6.0\13PassagemParametrosReferencia_out.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\13PassagemParametrosReferencia_out\bin\Debug\net6.0\13PassagemParametrosReferencia_out.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\13PassagemParametrosReferencia_out\bin\Debug\net6.0\13PassagemParametrosReferencia_out.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\13PassagemParametrosReferencia_out\bin\Debug\net6.0\13PassagemParametrosReferencia_out.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\13PassagemParametrosReferencia_out\bin\Debug\net6.0\13PassagemParametrosReferencia_out.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\13PassagemParametrosReferencia_out\obj\Debug\net6.0\13PassagemParametrosReferencia_out.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\13PassagemParametrosReferencia_out\obj\Debug\net6.0\13PassagemParametrosReferencia_out.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\13PassagemParametrosReferencia_out\obj\Debug\net6.0\13PassagemParametrosReferencia_out.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\13PassagemParametrosReferencia_out\obj\Debug\net6.0\13PassagemParametrosReferencia_out.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\13PassagemParametrosReferencia_out\obj\Debug\net6.0\13PassagemParametrosReferencia_out.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\13PassagemParametrosReferencia_out\obj\Debug\net6.0\13PassagemParametrosReferencia_out.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\13PassagemParametrosReferencia_out\obj\Debug\net6.0\refint\13PassagemParametrosReferencia_out.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\13PassagemParametrosReferencia_out\obj\Debug\net6.0\13PassagemParametrosReferencia_out.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\13PassagemParametrosReferencia_out\obj\Debug\net6.0\13PassagemParametrosReferencia_out.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\ClassesMetodos\13PassagemParametrosReferencia_out\obj\Debug\net6.0\ref\13PassagemParametrosReferencia_out.dll
