@@ -25,11 +25,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11PassandoArgumentoPorValor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12PassandoArgumentosPorReferencia", "12PassandoArgumentosPorReferencia\12PassandoArgumentosPorReferencia.csproj", "{95C268FF-34A5-45C9-84B2-6F20E11B15CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13PassagemParametrosReferencia_out", "13PassagemParametrosReferencia_out\13PassagemParametrosReferencia_out.csproj", "{D0072964-9891-427C-8DD3-D1C6F4288BF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13PassagemParametrosReferencia_out", "13PassagemParametrosReferencia_out\13PassagemParametrosReferencia_out.csproj", "{D0072964-9891-427C-8DD3-D1C6F4288BF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9Metodos_ArgumentosNomeados", "9Metodos_ArgumentosNomeados\9Metodos_ArgumentosNomeados.csproj", "{FE177C14-FD45-464F-87A4-0F78F0919AD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9Metodos_ArgumentosNomeados", "9Metodos_ArgumentosNomeados\9Metodos_ArgumentosNomeados.csproj", "{FE177C14-FD45-464F-87A4-0F78F0919AD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10Metodos_ParametrosOpcionais", "10Metodos_ParametrosOpcionais\10Metodos_ParametrosOpcionais.csproj", "{742C5B21-9D52-478A-8720-B2A3202CE7C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10Metodos_ParametrosOpcionais", "10Metodos_ParametrosOpcionais\10Metodos_ParametrosOpcionais.csproj", "{742C5B21-9D52-478A-8720-B2A3202CE7C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14MetodosEstaticos", "14MetodosEstaticos\14MetodosEstaticos.csproj", "{3CFABCCA-8809-4F08-8E76-833AAC0ADC51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15CamposEstaticos", "15CamposEstaticos\15CamposEstaticos.csproj", "{F53BDA53-E0F2-4821-B398-3BFC4879187E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +97,14 @@ Global
 		{742C5B21-9D52-478A-8720-B2A3202CE7C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{742C5B21-9D52-478A-8720-B2A3202CE7C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{742C5B21-9D52-478A-8720-B2A3202CE7C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CFABCCA-8809-4F08-8E76-833AAC0ADC51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CFABCCA-8809-4F08-8E76-833AAC0ADC51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CFABCCA-8809-4F08-8E76-833AAC0ADC51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CFABCCA-8809-4F08-8E76-833AAC0ADC51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F53BDA53-E0F2-4821-B398-3BFC4879187E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F53BDA53-E0F2-4821-B398-3BFC4879187E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F53BDA53-E0F2-4821-B398-3BFC4879187E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F53BDA53-E0F2-4821-B398-3BFC4879187E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
