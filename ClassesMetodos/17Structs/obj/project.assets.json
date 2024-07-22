@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Lukka\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Lucas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\ClassesMetodos\\17Structs\\17Structs.csproj",
+      "projectUniqueName": "C:\\workspace\\CSharp-Essencial-.NET7\\ClassesMetodos\\17Structs\\17Structs.csproj",
       "projectName": "17Structs",
-      "projectPath": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\ClassesMetodos\\17Structs\\17Structs.csproj",
-      "packagesPath": "C:\\Users\\Lukka\\.nuget\\packages\\",
-      "outputPath": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\ClassesMetodos\\17Structs\\obj\\",
+      "projectPath": "C:\\workspace\\CSharp-Essencial-.NET7\\ClassesMetodos\\17Structs\\17Structs.csproj",
+      "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
+      "outputPath": "C:\\workspace\\CSharp-Essencial-.NET7\\ClassesMetodos\\17Structs\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Lukka\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -71,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }
