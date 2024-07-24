@@ -1,0 +1,15 @@
+C:\workspace\CSharp-Essencial-.NET7\ClassesMetodos\19ModificadoresDeAcesso\bin\Debug\net6.0\19ModificadoresDeAcesso.exe
+C:\workspace\CSharp-Essencial-.NET7\ClassesMetodos\19ModificadoresDeAcesso\bin\Debug\net6.0\19ModificadoresDeAcesso.deps.json
+C:\workspace\CSharp-Essencial-.NET7\ClassesMetodos\19ModificadoresDeAcesso\bin\Debug\net6.0\19ModificadoresDeAcesso.runtimeconfig.json
+C:\workspace\CSharp-Essencial-.NET7\ClassesMetodos\19ModificadoresDeAcesso\bin\Debug\net6.0\19ModificadoresDeAcesso.dll
+C:\workspace\CSharp-Essencial-.NET7\ClassesMetodos\19ModificadoresDeAcesso\bin\Debug\net6.0\19ModificadoresDeAcesso.pdb
+C:\workspace\CSharp-Essencial-.NET7\ClassesMetodos\19ModificadoresDeAcesso\obj\Debug\net6.0\19ModificadoresDeAcesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CSharp-Essencial-.NET7\ClassesMetodos\19ModificadoresDeAcesso\obj\Debug\net6.0\19ModificadoresDeAcesso.AssemblyInfoInputs.cache
+C:\workspace\CSharp-Essencial-.NET7\ClassesMetodos\19ModificadoresDeAcesso\obj\Debug\net6.0\19ModificadoresDeAcesso.AssemblyInfo.cs
+C:\workspace\CSharp-Essencial-.NET7\ClassesMetodos\19ModificadoresDeAcesso\obj\Debug\net6.0\19ModificadoresDeAcesso.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp-Essencial-.NET7\ClassesMetodos\19ModificadoresDeAcesso\obj\Debug\net6.0\19ModificadoresDeAcesso.sourcelink.json
+C:\workspace\CSharp-Essencial-.NET7\ClassesMetodos\19ModificadoresDeAcesso\obj\Debug\net6.0\19ModificadoresDeAcesso.dll
+C:\workspace\CSharp-Essencial-.NET7\ClassesMetodos\19ModificadoresDeAcesso\obj\Debug\net6.0\refint\19ModificadoresDeAcesso.dll
+C:\workspace\CSharp-Essencial-.NET7\ClassesMetodos\19ModificadoresDeAcesso\obj\Debug\net6.0\19ModificadoresDeAcesso.pdb
+C:\workspace\CSharp-Essencial-.NET7\ClassesMetodos\19ModificadoresDeAcesso\obj\Debug\net6.0\19ModificadoresDeAcesso.genruntimeconfig.cache
+C:\workspace\CSharp-Essencial-.NET7\ClassesMetodos\19ModificadoresDeAcesso\obj\Debug\net6.0\ref\19ModificadoresDeAcesso.dll
