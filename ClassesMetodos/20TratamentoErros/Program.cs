@@ -12,9 +12,15 @@ try
     int z = x / y;
     Console.WriteLine($"\n{x} / {y} = {z}");
 }
-catch
+catch (Exception ex)
 {
     Console.WriteLine("\nNão existe divisão por zero, tente outro número...");
+    Console.WriteLine($"\n Erro: <<< {ex.Message} >>>");
+    Console.WriteLine($"\n Detalhes {ex?.StackTrace?.ToString()}");
+}
+finally
+{
+    Console.WriteLine("\nProcessamento concluído...");
 }
 
 Console.ReadKey();

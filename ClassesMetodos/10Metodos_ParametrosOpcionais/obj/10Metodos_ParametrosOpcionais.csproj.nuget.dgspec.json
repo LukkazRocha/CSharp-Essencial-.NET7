@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workspace\\CSharp-Essencial-.NET7\\ClassesMetodos\\10Metodos_ParametrosOpcionais\\10Metodos_ParametrosOpcionais.csproj": {}
+    "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\ClassesMetodos\\10Metodos_ParametrosOpcionais\\10Metodos_ParametrosOpcionais.csproj": {}
   },
   "projects": {
-    "C:\\workspace\\CSharp-Essencial-.NET7\\ClassesMetodos\\10Metodos_ParametrosOpcionais\\10Metodos_ParametrosOpcionais.csproj": {
+    "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\ClassesMetodos\\10Metodos_ParametrosOpcionais\\10Metodos_ParametrosOpcionais.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\CSharp-Essencial-.NET7\\ClassesMetodos\\10Metodos_ParametrosOpcionais\\10Metodos_ParametrosOpcionais.csproj",
+        "projectUniqueName": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\ClassesMetodos\\10Metodos_ParametrosOpcionais\\10Metodos_ParametrosOpcionais.csproj",
         "projectName": "10Metodos_ParametrosOpcionais",
-        "projectPath": "C:\\workspace\\CSharp-Essencial-.NET7\\ClassesMetodos\\10Metodos_ParametrosOpcionais\\10Metodos_ParametrosOpcionais.csproj",
-        "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\CSharp-Essencial-.NET7\\ClassesMetodos\\10Metodos_ParametrosOpcionais\\obj\\",
+        "projectPath": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\ClassesMetodos\\10Metodos_ParametrosOpcionais\\10Metodos_ParametrosOpcionais.csproj",
+        "packagesPath": "C:\\Users\\Lukka\\.nuget\\packages\\",
+        "outputPath": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\ClassesMetodos\\10Metodos_ParametrosOpcionais\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lukka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
