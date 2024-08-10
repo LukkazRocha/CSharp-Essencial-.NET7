@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\3Modificador_Params\bin\Debug\net7.0\3Modificador_Params.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\3Modificador_Params\bin\Debug\net7.0\3Modificador_Params.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\3Modificador_Params\bin\Debug\net7.0\3Modificador_Params.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\3Modificador_Params\bin\Debug\net7.0\3Modificador_Params.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\3Modificador_Params\bin\Debug\net7.0\3Modificador_Params.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\3Modificador_Params\obj\Debug\net7.0\3Modificador_Params.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\3Modificador_Params\obj\Debug\net7.0\3Modificador_Params.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\3Modificador_Params\obj\Debug\net7.0\3Modificador_Params.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\3Modificador_Params\obj\Debug\net7.0\3Modificador_Params.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\3Modificador_Params\obj\Debug\net7.0\3Modificador_Params.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\3Modificador_Params\obj\Debug\net7.0\3Modificador_Params.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\3Modificador_Params\obj\Debug\net7.0\refint\3Modificador_Params.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\3Modificador_Params\obj\Debug\net7.0\3Modificador_Params.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\3Modificador_Params\obj\Debug\net7.0\3Modificador_Params.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\3Modificador_Params\obj\Debug\net7.0\ref\3Modificador_Params.dll

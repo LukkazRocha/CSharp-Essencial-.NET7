@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\2ArrayExercicio\bin\Debug\net7.0\2ArrayExercicio.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\2ArrayExercicio\bin\Debug\net7.0\2ArrayExercicio.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\2ArrayExercicio\bin\Debug\net7.0\2ArrayExercicio.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\2ArrayExercicio\bin\Debug\net7.0\2ArrayExercicio.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\2ArrayExercicio\bin\Debug\net7.0\2ArrayExercicio.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\2ArrayExercicio\obj\Debug\net7.0\2ArrayExercicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\2ArrayExercicio\obj\Debug\net7.0\2ArrayExercicio.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\2ArrayExercicio\obj\Debug\net7.0\2ArrayExercicio.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\2ArrayExercicio\obj\Debug\net7.0\2ArrayExercicio.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\2ArrayExercicio\obj\Debug\net7.0\2ArrayExercicio.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\2ArrayExercicio\obj\Debug\net7.0\2ArrayExercicio.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\2ArrayExercicio\obj\Debug\net7.0\refint\2ArrayExercicio.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\2ArrayExercicio\obj\Debug\net7.0\2ArrayExercicio.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\2ArrayExercicio\obj\Debug\net7.0\2ArrayExercicio.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\2ArrayExercicio\obj\Debug\net7.0\ref\2ArrayExercicio.dll
