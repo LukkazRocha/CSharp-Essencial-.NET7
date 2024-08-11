@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\5ArrayBidimensionalExercicio\bin\Debug\net7.0\5ArrayBidimensionalExercicio.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\5ArrayBidimensionalExercicio\bin\Debug\net7.0\5ArrayBidimensionalExercicio.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\5ArrayBidimensionalExercicio\bin\Debug\net7.0\5ArrayBidimensionalExercicio.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\5ArrayBidimensionalExercicio\bin\Debug\net7.0\5ArrayBidimensionalExercicio.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\5ArrayBidimensionalExercicio\bin\Debug\net7.0\5ArrayBidimensionalExercicio.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\5ArrayBidimensionalExercicio\obj\Debug\net7.0\5ArrayBidimensionalExercicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\5ArrayBidimensionalExercicio\obj\Debug\net7.0\5ArrayBidimensionalExercicio.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\5ArrayBidimensionalExercicio\obj\Debug\net7.0\5ArrayBidimensionalExercicio.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\5ArrayBidimensionalExercicio\obj\Debug\net7.0\5ArrayBidimensionalExercicio.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\5ArrayBidimensionalExercicio\obj\Debug\net7.0\5ArrayBidimensionalExercicio.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\5ArrayBidimensionalExercicio\obj\Debug\net7.0\5ArrayBidimensionalExercicio.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\5ArrayBidimensionalExercicio\obj\Debug\net7.0\refint\5ArrayBidimensionalExercicio.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\5ArrayBidimensionalExercicio\obj\Debug\net7.0\5ArrayBidimensionalExercicio.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\5ArrayBidimensionalExercicio\obj\Debug\net7.0\5ArrayBidimensionalExercicio.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\5ArrayBidimensionalExercicio\obj\Debug\net7.0\ref\5ArrayBidimensionalExercicio.dll

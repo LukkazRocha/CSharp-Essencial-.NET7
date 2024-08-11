@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Colecoes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{94FAA735-31BD-4AF8-BD66-AC44B1AFD4A2}|3Modificador_Params\\3Modificador_Params.csproj|d:\\lucas\\workspace\\csharp-essencial-.net7\\colecoes\\3modificador_params\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94FAA735-31BD-4AF8-BD66-AC44B1AFD4A2}|3Modificador_Params\\3Modificador_Params.csproj|solutionrelative:3modificador_params\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BDAE3ED-DDB0-49DF-90EB-02C643889098}|7List\\7List.csproj|d:\\lucas\\workspace\\csharp-essencial-.net7\\colecoes\\7list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BDAE3ED-DDB0-49DF-90EB-02C643889098}|7List\\7List.csproj|solutionrelative:7list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -60,13 +60,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Colecoes\\3Modificador_Params\\Program.cs",
-              "RelativeDocumentMoniker": "3Modificador_Params\\Program.cs",
-              "ToolTip": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Colecoes\\3Modificador_Params\\Program.cs",
-              "RelativeToolTip": "3Modificador_Params\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAVAAAA",
+              "DocumentMoniker": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Colecoes\\7List\\Program.cs",
+              "RelativeDocumentMoniker": "7List\\Program.cs",
+              "ToolTip": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Colecoes\\7List\\Program.cs",
+              "RelativeToolTip": "7List\\Program.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAASwFUAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T19:02:36.212Z",
+              "WhenOpened": "2024-08-11T06:51:02.508Z",
               "EditorCaption": ""
             }
           ]

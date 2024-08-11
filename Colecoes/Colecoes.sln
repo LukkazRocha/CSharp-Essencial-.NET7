@@ -5,9 +5,17 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1Arrays", "1Arrays\1Arrays.csproj", "{C442B883-3D6D-47AE-9BE4-52186185B63A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2ArrayExercicio", "2ArrayExercicio\2ArrayExercicio.csproj", "{98569B9B-5DF0-4696-8884-9C2660E0EE0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2ArrayExercicio", "2ArrayExercicio\2ArrayExercicio.csproj", "{98569B9B-5DF0-4696-8884-9C2660E0EE0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3Modificador_Params", "3Modificador_Params\3Modificador_Params.csproj", "{94FAA735-31BD-4AF8-BD66-AC44B1AFD4A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3Modificador_Params", "3Modificador_Params\3Modificador_Params.csproj", "{94FAA735-31BD-4AF8-BD66-AC44B1AFD4A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4ArraysBidimensionais", "4ArraysBidimensionais\4ArraysBidimensionais.csproj", "{616FC7F4-91FA-4057-B516-F92ABB014049}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5ArrayBidimensionalExercicio", "5ArrayBidimensionalExercicio\5ArrayBidimensionalExercicio.csproj", "{F1152284-5DD2-41CF-A932-B905D2B7D70C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6ArrayList", "6ArrayList\6ArrayList.csproj", "{F424C6E5-69AF-4D93-B507-2E20460273C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7List", "7List\7List.csproj", "{2BDAE3ED-DDB0-49DF-90EB-02C643889098}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +35,22 @@ Global
 		{94FAA735-31BD-4AF8-BD66-AC44B1AFD4A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94FAA735-31BD-4AF8-BD66-AC44B1AFD4A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94FAA735-31BD-4AF8-BD66-AC44B1AFD4A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{616FC7F4-91FA-4057-B516-F92ABB014049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{616FC7F4-91FA-4057-B516-F92ABB014049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{616FC7F4-91FA-4057-B516-F92ABB014049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{616FC7F4-91FA-4057-B516-F92ABB014049}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1152284-5DD2-41CF-A932-B905D2B7D70C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1152284-5DD2-41CF-A932-B905D2B7D70C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1152284-5DD2-41CF-A932-B905D2B7D70C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1152284-5DD2-41CF-A932-B905D2B7D70C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F424C6E5-69AF-4D93-B507-2E20460273C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F424C6E5-69AF-4D93-B507-2E20460273C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F424C6E5-69AF-4D93-B507-2E20460273C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F424C6E5-69AF-4D93-B507-2E20460273C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BDAE3ED-DDB0-49DF-90EB-02C643889098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BDAE3ED-DDB0-49DF-90EB-02C643889098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BDAE3ED-DDB0-49DF-90EB-02C643889098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BDAE3ED-DDB0-49DF-90EB-02C643889098}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
