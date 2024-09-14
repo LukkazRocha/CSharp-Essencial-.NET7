@@ -11,7 +11,24 @@ Console.WriteLine($"\nPredicado => {fruta1}");
 
 //usando a expressão lambda
 var fruta2 = frutas.Find(f => f.Contains('n'));
-Console.WriteLine($"\nExpressão lambda => {fruta2}");
+Console.WriteLine($"\nFind => {fruta2}");
+
+var fruta3 = frutas.FindLast(i => i.Contains('n'));
+Console.WriteLine($"\nFindLast => {fruta3}");
+
+var fruta4 = frutas.FindIndex(i => i.Contains('n'));
+Console.WriteLine($"\nFindIndex => índice = {fruta4} item = {frutas[fruta4]}");
+
+var fruta5 = frutas.FindLastIndex(i => i.Contains('n'));
+Console.WriteLine($"\nFindLastIndex => índice = {fruta5} item = {frutas[fruta5]}");
+
+var frutas6 = frutas.FindAll(i => i.Contains('n'));
+
+Console.Write("\nFindAll: ");
+foreach (var item in frutas6)
+{
+    Console.Write($"{item} ");
+}
 
 Console.ReadKey();
 

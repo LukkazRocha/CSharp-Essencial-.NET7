@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\09List_Exercicio\bin\Debug\net7.0\9List_Exercicio.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\09List_Exercicio\bin\Debug\net7.0\9List_Exercicio.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\09List_Exercicio\bin\Debug\net7.0\9List_Exercicio.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\09List_Exercicio\bin\Debug\net7.0\9List_Exercicio.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\09List_Exercicio\bin\Debug\net7.0\9List_Exercicio.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\09List_Exercicio\obj\Debug\net7.0\9List_Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\09List_Exercicio\obj\Debug\net7.0\9List_Exercicio.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\09List_Exercicio\obj\Debug\net7.0\9List_Exercicio.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\09List_Exercicio\obj\Debug\net7.0\9List_Exercicio.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\09List_Exercicio\obj\Debug\net7.0\9List_Exercicio.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\09List_Exercicio\obj\Debug\net7.0\9List_Exercicio.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\09List_Exercicio\obj\Debug\net7.0\refint\9List_Exercicio.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\09List_Exercicio\obj\Debug\net7.0\9List_Exercicio.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\09List_Exercicio\obj\Debug\net7.0\9List_Exercicio.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\09List_Exercicio\obj\Debug\net7.0\ref\9List_Exercicio.dll
