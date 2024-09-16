@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Colecoes\\",
+  "WorkspaceRootPath": "C:\\workspace\\CSharp-Essencial-.NET7\\Colecoes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0F5D0EE-1BE2-400A-A227-78612B870E06}|09List_Exercicio\\09List_Exercicio.csproj|d:\\lucas\\workspace\\csharp-essencial-.net7\\colecoes\\09list_exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0F5D0EE-1BE2-400A-A227-78612B870E06}|09List_Exercicio\\09List_Exercicio.csproj|solutionrelative:09list_exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{609D858C-EFB8-4CF0-AB7F-90470E709003}|10Indexadores\\10Indexadores.csproj|c:\\workspace\\csharp-essencial-.net7\\colecoes\\10indexadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609D858C-EFB8-4CF0-AB7F-90470E709003}|10Indexadores\\10Indexadores.csproj|solutionrelative:10indexadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0F5D0EE-1BE2-400A-A227-78612B870E06}|09List_Exercicio\\09List_Exercicio.csproj|d:\\lucas\\workspace\\csharp-essencial-.net7\\colecoes\\09list_exercicio\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0F5D0EE-1BE2-400A-A227-78612B870E06}|09List_Exercicio\\09List_Exercicio.csproj|solutionrelative:09list_exercicio\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0F5D0EE-1BE2-400A-A227-78612B870E06}|09List_Exercicio\\09List_Exercicio.csproj|d:\\lucas\\workspace\\csharp-essencial-.net7\\colecoes\\09list_exercicio\\fontedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0F5D0EE-1BE2-400A-A227-78612B870E06}|09List_Exercicio\\09List_Exercicio.csproj|solutionrelative:09list_exercicio\\fontedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{609D858C-EFB8-4CF0-AB7F-90470E709003}|10Indexadores\\10Indexadores.csproj|c:\\workspace\\csharp-essencial-.net7\\colecoes\\10indexadores\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609D858C-EFB8-4CF0-AB7F-90470E709003}|10Indexadores\\10Indexadores.csproj|solutionrelative:10indexadores\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,15 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Bookmark",
@@ -54,10 +46,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
             },
             {
@@ -65,46 +53,29 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FonteDados.cs",
-              "DocumentMoniker": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Colecoes\\09List_Exercicio\\FonteDados.cs",
-              "RelativeDocumentMoniker": "09List_Exercicio\\FonteDados.cs",
-              "ToolTip": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Colecoes\\09List_Exercicio\\FonteDados.cs",
-              "RelativeToolTip": "09List_Exercicio\\FonteDados.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T19:05:01.832Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Aluno.cs",
-              "DocumentMoniker": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Colecoes\\09List_Exercicio\\Aluno.cs",
-              "RelativeDocumentMoniker": "09List_Exercicio\\Aluno.cs",
-              "ToolTip": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Colecoes\\09List_Exercicio\\Aluno.cs",
-              "RelativeToolTip": "09List_Exercicio\\Aluno.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Title": "Time.cs",
+              "DocumentMoniker": "C:\\workspace\\CSharp-Essencial-.NET7\\Colecoes\\10Indexadores\\Time.cs",
+              "RelativeDocumentMoniker": "10Indexadores\\Time.cs",
+              "ToolTip": "C:\\workspace\\CSharp-Essencial-.NET7\\Colecoes\\10Indexadores\\Time.cs",
+              "RelativeToolTip": "10Indexadores\\Time.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T19:02:54.18Z",
+              "WhenOpened": "2024-09-16T16:40:08.656Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Colecoes\\09List_Exercicio\\Program.cs",
-              "RelativeDocumentMoniker": "09List_Exercicio\\Program.cs",
-              "ToolTip": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Colecoes\\09List_Exercicio\\Program.cs",
-              "RelativeToolTip": "09List_Exercicio\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC8AAAAtAAAA",
+              "DocumentMoniker": "C:\\workspace\\CSharp-Essencial-.NET7\\Colecoes\\10Indexadores\\Program.cs",
+              "RelativeDocumentMoniker": "10Indexadores\\Program.cs",
+              "ToolTip": "C:\\workspace\\CSharp-Essencial-.NET7\\Colecoes\\10Indexadores\\Program.cs",
+              "RelativeToolTip": "10Indexadores\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T19:02:23.952Z",
+              "WhenOpened": "2024-09-16T16:39:43.645Z",
               "EditorCaption": ""
             }
           ]
