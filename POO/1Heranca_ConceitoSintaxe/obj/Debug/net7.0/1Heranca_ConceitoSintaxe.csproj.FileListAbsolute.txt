@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\1Heranca_ConceitoSintaxe\bin\Debug\net7.0\1Heranca_ConceitoSintaxe.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\1Heranca_ConceitoSintaxe\bin\Debug\net7.0\1Heranca_ConceitoSintaxe.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\1Heranca_ConceitoSintaxe\bin\Debug\net7.0\1Heranca_ConceitoSintaxe.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\1Heranca_ConceitoSintaxe\bin\Debug\net7.0\1Heranca_ConceitoSintaxe.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\1Heranca_ConceitoSintaxe\bin\Debug\net7.0\1Heranca_ConceitoSintaxe.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\1Heranca_ConceitoSintaxe\obj\Debug\net7.0\1Heranca_ConceitoSintaxe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\1Heranca_ConceitoSintaxe\obj\Debug\net7.0\1Heranca_ConceitoSintaxe.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\1Heranca_ConceitoSintaxe\obj\Debug\net7.0\1Heranca_ConceitoSintaxe.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\1Heranca_ConceitoSintaxe\obj\Debug\net7.0\1Heranca_ConceitoSintaxe.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\1Heranca_ConceitoSintaxe\obj\Debug\net7.0\1Heranca_ConceitoSintaxe.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\1Heranca_ConceitoSintaxe\obj\Debug\net7.0\1Heranca_ConceitoSintaxe.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\1Heranca_ConceitoSintaxe\obj\Debug\net7.0\refint\1Heranca_ConceitoSintaxe.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\1Heranca_ConceitoSintaxe\obj\Debug\net7.0\1Heranca_ConceitoSintaxe.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\1Heranca_ConceitoSintaxe\obj\Debug\net7.0\1Heranca_ConceitoSintaxe.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\1Heranca_ConceitoSintaxe\obj\Debug\net7.0\ref\1Heranca_ConceitoSintaxe.dll

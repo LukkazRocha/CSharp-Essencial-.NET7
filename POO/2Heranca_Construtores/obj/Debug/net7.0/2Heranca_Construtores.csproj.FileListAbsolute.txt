@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\2Heranca_Construtores\bin\Debug\net7.0\2Heranca_Construtores.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\2Heranca_Construtores\bin\Debug\net7.0\2Heranca_Construtores.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\2Heranca_Construtores\bin\Debug\net7.0\2Heranca_Construtores.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\2Heranca_Construtores\bin\Debug\net7.0\2Heranca_Construtores.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\2Heranca_Construtores\bin\Debug\net7.0\2Heranca_Construtores.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\2Heranca_Construtores\obj\Debug\net7.0\2Heranca_Construtores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\2Heranca_Construtores\obj\Debug\net7.0\2Heranca_Construtores.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\2Heranca_Construtores\obj\Debug\net7.0\2Heranca_Construtores.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\2Heranca_Construtores\obj\Debug\net7.0\2Heranca_Construtores.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\2Heranca_Construtores\obj\Debug\net7.0\2Heranca_Construtores.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\2Heranca_Construtores\obj\Debug\net7.0\2Heranca_Construtores.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\2Heranca_Construtores\obj\Debug\net7.0\refint\2Heranca_Construtores.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\2Heranca_Construtores\obj\Debug\net7.0\2Heranca_Construtores.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\2Heranca_Construtores\obj\Debug\net7.0\2Heranca_Construtores.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\2Heranca_Construtores\obj\Debug\net7.0\ref\2Heranca_Construtores.dll
