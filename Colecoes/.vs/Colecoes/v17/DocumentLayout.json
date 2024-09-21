@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\workspace\\CSharp-Essencial-.NET7\\Colecoes\\",
+  "WorkspaceRootPath": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Colecoes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{609D858C-EFB8-4CF0-AB7F-90470E709003}|10Indexadores\\10Indexadores.csproj|c:\\workspace\\csharp-essencial-.net7\\colecoes\\10indexadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{609D858C-EFB8-4CF0-AB7F-90470E709003}|10Indexadores\\10Indexadores.csproj|solutionrelative:10indexadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{609D858C-EFB8-4CF0-AB7F-90470E709003}|10Indexadores\\10Indexadores.csproj|c:\\workspace\\csharp-essencial-.net7\\colecoes\\10indexadores\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{609D858C-EFB8-4CF0-AB7F-90470E709003}|10Indexadores\\10Indexadores.csproj|solutionrelative:10indexadores\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CE3F381-DF54-44CB-A9EA-0D287DCC6DCC}|12NumerosAleatorios\\12NumerosAleatorios.csproj|d:\\lucas\\workspace\\csharp-essencial-.net7\\colecoes\\12numerosaleatorios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE3F381-DF54-44CB-A9EA-0D287DCC6DCC}|12NumerosAleatorios\\12NumerosAleatorios.csproj|solutionrelative:12numerosaleatorios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +14,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Bookmark",
@@ -46,6 +46,10 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
             },
             {
@@ -53,29 +57,20 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Time.cs",
-              "DocumentMoniker": "C:\\workspace\\CSharp-Essencial-.NET7\\Colecoes\\10Indexadores\\Time.cs",
-              "RelativeDocumentMoniker": "10Indexadores\\Time.cs",
-              "ToolTip": "C:\\workspace\\CSharp-Essencial-.NET7\\Colecoes\\10Indexadores\\Time.cs",
-              "RelativeToolTip": "10Indexadores\\Time.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T16:40:08.656Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\workspace\\CSharp-Essencial-.NET7\\Colecoes\\10Indexadores\\Program.cs",
-              "RelativeDocumentMoniker": "10Indexadores\\Program.cs",
-              "ToolTip": "C:\\workspace\\CSharp-Essencial-.NET7\\Colecoes\\10Indexadores\\Program.cs",
-              "RelativeToolTip": "10Indexadores\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "DocumentMoniker": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Colecoes\\12NumerosAleatorios\\Program.cs",
+              "RelativeDocumentMoniker": "12NumerosAleatorios\\Program.cs",
+              "ToolTip": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Colecoes\\12NumerosAleatorios\\Program.cs",
+              "RelativeToolTip": "12NumerosAleatorios\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T16:39:43.645Z",
+              "WhenOpened": "2024-09-21T17:57:43.358Z",
               "EditorCaption": ""
             }
           ]

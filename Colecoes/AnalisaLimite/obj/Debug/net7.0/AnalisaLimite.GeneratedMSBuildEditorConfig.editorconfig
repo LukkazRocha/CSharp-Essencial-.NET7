@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AnalisaLimite
-build_property.ProjectDir = C:\workspace\CSharp-Essencial-.NET7\Colecoes\AnalisaLimite\
+build_property.ProjectDir = D:\Lucas\workspace\CSharp-Essencial-.NET7\Colecoes\AnalisaLimite\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
