@@ -1,0 +1,15 @@
+C:\workspace\CSharp-Essencial-.NET7\POO\4Heranca_Modificador_new\bin\Debug\net7.0\4Heranca_Modificador_new.exe
+C:\workspace\CSharp-Essencial-.NET7\POO\4Heranca_Modificador_new\bin\Debug\net7.0\4Heranca_Modificador_new.deps.json
+C:\workspace\CSharp-Essencial-.NET7\POO\4Heranca_Modificador_new\bin\Debug\net7.0\4Heranca_Modificador_new.runtimeconfig.json
+C:\workspace\CSharp-Essencial-.NET7\POO\4Heranca_Modificador_new\bin\Debug\net7.0\4Heranca_Modificador_new.dll
+C:\workspace\CSharp-Essencial-.NET7\POO\4Heranca_Modificador_new\bin\Debug\net7.0\4Heranca_Modificador_new.pdb
+C:\workspace\CSharp-Essencial-.NET7\POO\4Heranca_Modificador_new\obj\Debug\net7.0\4Heranca_Modificador_new.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CSharp-Essencial-.NET7\POO\4Heranca_Modificador_new\obj\Debug\net7.0\4Heranca_Modificador_new.AssemblyInfoInputs.cache
+C:\workspace\CSharp-Essencial-.NET7\POO\4Heranca_Modificador_new\obj\Debug\net7.0\4Heranca_Modificador_new.AssemblyInfo.cs
+C:\workspace\CSharp-Essencial-.NET7\POO\4Heranca_Modificador_new\obj\Debug\net7.0\4Heranca_Modificador_new.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp-Essencial-.NET7\POO\4Heranca_Modificador_new\obj\Debug\net7.0\4Heranca_Modificador_new.sourcelink.json
+C:\workspace\CSharp-Essencial-.NET7\POO\4Heranca_Modificador_new\obj\Debug\net7.0\4Heranca_Modificador_new.dll
+C:\workspace\CSharp-Essencial-.NET7\POO\4Heranca_Modificador_new\obj\Debug\net7.0\refint\4Heranca_Modificador_new.dll
+C:\workspace\CSharp-Essencial-.NET7\POO\4Heranca_Modificador_new\obj\Debug\net7.0\4Heranca_Modificador_new.pdb
+C:\workspace\CSharp-Essencial-.NET7\POO\4Heranca_Modificador_new\obj\Debug\net7.0\4Heranca_Modificador_new.genruntimeconfig.cache
+C:\workspace\CSharp-Essencial-.NET7\POO\4Heranca_Modificador_new\obj\Debug\net7.0\ref\4Heranca_Modificador_new.dll
