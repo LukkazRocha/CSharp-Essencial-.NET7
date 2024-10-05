@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\8Heranca_UpcastingDowncasting\bin\Debug\net7.0\8Heranca_UpcastingDowncasting.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\8Heranca_UpcastingDowncasting\bin\Debug\net7.0\8Heranca_UpcastingDowncasting.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\8Heranca_UpcastingDowncasting\bin\Debug\net7.0\8Heranca_UpcastingDowncasting.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\8Heranca_UpcastingDowncasting\bin\Debug\net7.0\8Heranca_UpcastingDowncasting.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\8Heranca_UpcastingDowncasting\bin\Debug\net7.0\8Heranca_UpcastingDowncasting.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\8Heranca_UpcastingDowncasting\obj\Debug\net7.0\8Heranca_UpcastingDowncasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\8Heranca_UpcastingDowncasting\obj\Debug\net7.0\8Heranca_UpcastingDowncasting.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\8Heranca_UpcastingDowncasting\obj\Debug\net7.0\8Heranca_UpcastingDowncasting.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\8Heranca_UpcastingDowncasting\obj\Debug\net7.0\8Heranca_UpcastingDowncasting.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\8Heranca_UpcastingDowncasting\obj\Debug\net7.0\8Heranca_UpcastingDowncasting.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\8Heranca_UpcastingDowncasting\obj\Debug\net7.0\8Heranca_UpcastingDowncasting.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\8Heranca_UpcastingDowncasting\obj\Debug\net7.0\refint\8Heranca_UpcastingDowncasting.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\8Heranca_UpcastingDowncasting\obj\Debug\net7.0\8Heranca_UpcastingDowncasting.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\8Heranca_UpcastingDowncasting\obj\Debug\net7.0\8Heranca_UpcastingDowncasting.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\8Heranca_UpcastingDowncasting\obj\Debug\net7.0\ref\8Heranca_UpcastingDowncasting.dll
