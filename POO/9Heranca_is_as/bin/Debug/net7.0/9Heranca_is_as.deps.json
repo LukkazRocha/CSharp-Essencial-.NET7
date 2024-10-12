@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "9Heranca_is_as/1.0.0": {
+        "dependencies": {
+          "8Heranca_UpcastingDowncasting": "1.0.0"
+        },
+        "runtime": {
+          "9Heranca_is_as.dll": {}
+        }
+      },
+      "8Heranca_UpcastingDowncasting/1.0.0": {
+        "runtime": {
+          "8Heranca_UpcastingDowncasting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "9Heranca_is_as/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "8Heranca_UpcastingDowncasting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

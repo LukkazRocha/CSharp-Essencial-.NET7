@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\11Interfaces\bin\Debug\net7.0\11Interfaces.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\11Interfaces\bin\Debug\net7.0\11Interfaces.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\11Interfaces\bin\Debug\net7.0\11Interfaces.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\11Interfaces\bin\Debug\net7.0\11Interfaces.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\11Interfaces\bin\Debug\net7.0\11Interfaces.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\11Interfaces\obj\Debug\net7.0\11Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\11Interfaces\obj\Debug\net7.0\11Interfaces.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\11Interfaces\obj\Debug\net7.0\11Interfaces.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\11Interfaces\obj\Debug\net7.0\11Interfaces.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\11Interfaces\obj\Debug\net7.0\11Interfaces.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\11Interfaces\obj\Debug\net7.0\11Interfaces.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\11Interfaces\obj\Debug\net7.0\refint\11Interfaces.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\11Interfaces\obj\Debug\net7.0\11Interfaces.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\11Interfaces\obj\Debug\net7.0\11Interfaces.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\11Interfaces\obj\Debug\net7.0\ref\11Interfaces.dll
