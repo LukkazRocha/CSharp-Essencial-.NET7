@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\14Acoplamento\bin\Debug\net7.0\14Acoplamento.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\14Acoplamento\bin\Debug\net7.0\14Acoplamento.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\14Acoplamento\bin\Debug\net7.0\14Acoplamento.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\14Acoplamento\bin\Debug\net7.0\14Acoplamento.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\14Acoplamento\bin\Debug\net7.0\14Acoplamento.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\14Acoplamento\obj\Debug\net7.0\14Acoplamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\14Acoplamento\obj\Debug\net7.0\14Acoplamento.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\14Acoplamento\obj\Debug\net7.0\14Acoplamento.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\14Acoplamento\obj\Debug\net7.0\14Acoplamento.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\14Acoplamento\obj\Debug\net7.0\14Acoplamento.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\14Acoplamento\obj\Debug\net7.0\14Acoplamento.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\14Acoplamento\obj\Debug\net7.0\refint\14Acoplamento.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\14Acoplamento\obj\Debug\net7.0\14Acoplamento.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\14Acoplamento\obj\Debug\net7.0\14Acoplamento.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\14Acoplamento\obj\Debug\net7.0\ref\14Acoplamento.dll

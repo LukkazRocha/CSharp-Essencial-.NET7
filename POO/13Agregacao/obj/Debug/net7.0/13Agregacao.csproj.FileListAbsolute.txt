@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\13Agregacao\bin\Debug\net7.0\13Agregacao.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\13Agregacao\bin\Debug\net7.0\13Agregacao.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\13Agregacao\bin\Debug\net7.0\13Agregacao.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\13Agregacao\bin\Debug\net7.0\13Agregacao.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\13Agregacao\bin\Debug\net7.0\13Agregacao.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\13Agregacao\obj\Debug\net7.0\13Agregacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\13Agregacao\obj\Debug\net7.0\13Agregacao.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\13Agregacao\obj\Debug\net7.0\13Agregacao.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\13Agregacao\obj\Debug\net7.0\13Agregacao.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\13Agregacao\obj\Debug\net7.0\13Agregacao.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\13Agregacao\obj\Debug\net7.0\13Agregacao.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\13Agregacao\obj\Debug\net7.0\refint\13Agregacao.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\13Agregacao\obj\Debug\net7.0\13Agregacao.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\13Agregacao\obj\Debug\net7.0\13Agregacao.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\13Agregacao\obj\Debug\net7.0\ref\13Agregacao.dll

@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\12Interfaces_exercicio\bin\Debug\net7.0\12Interfaces_exercicio.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\12Interfaces_exercicio\bin\Debug\net7.0\12Interfaces_exercicio.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\12Interfaces_exercicio\bin\Debug\net7.0\12Interfaces_exercicio.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\12Interfaces_exercicio\bin\Debug\net7.0\12Interfaces_exercicio.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\12Interfaces_exercicio\bin\Debug\net7.0\12Interfaces_exercicio.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\12Interfaces_exercicio\obj\Debug\net7.0\12Interfaces_exercicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\12Interfaces_exercicio\obj\Debug\net7.0\12Interfaces_exercicio.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\12Interfaces_exercicio\obj\Debug\net7.0\12Interfaces_exercicio.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\12Interfaces_exercicio\obj\Debug\net7.0\12Interfaces_exercicio.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\12Interfaces_exercicio\obj\Debug\net7.0\12Interfaces_exercicio.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\12Interfaces_exercicio\obj\Debug\net7.0\12Interfaces_exercicio.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\12Interfaces_exercicio\obj\Debug\net7.0\refint\12Interfaces_exercicio.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\12Interfaces_exercicio\obj\Debug\net7.0\12Interfaces_exercicio.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\12Interfaces_exercicio\obj\Debug\net7.0\12Interfaces_exercicio.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\POO\12Interfaces_exercicio\obj\Debug\net7.0\ref\12Interfaces_exercicio.dll
