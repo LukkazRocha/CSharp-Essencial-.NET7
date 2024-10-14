@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\POO\\12Interfaces_exercicio\\12Interfaces_exercicio.csproj": {}
+    "C:\\workspace\\CSharp-Essencial-.NET7\\POO\\12Interfaces_exercicio\\12Interfaces_exercicio.csproj": {}
   },
   "projects": {
-    "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\POO\\12Interfaces_exercicio\\12Interfaces_exercicio.csproj": {
+    "C:\\workspace\\CSharp-Essencial-.NET7\\POO\\12Interfaces_exercicio\\12Interfaces_exercicio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\POO\\12Interfaces_exercicio\\12Interfaces_exercicio.csproj",
+        "projectUniqueName": "C:\\workspace\\CSharp-Essencial-.NET7\\POO\\12Interfaces_exercicio\\12Interfaces_exercicio.csproj",
         "projectName": "12Interfaces_exercicio",
-        "projectPath": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\POO\\12Interfaces_exercicio\\12Interfaces_exercicio.csproj",
-        "packagesPath": "C:\\Users\\Lukka\\.nuget\\packages\\",
-        "outputPath": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\POO\\12Interfaces_exercicio\\obj\\",
+        "projectPath": "C:\\workspace\\CSharp-Essencial-.NET7\\POO\\12Interfaces_exercicio\\12Interfaces_exercicio.csproj",
+        "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
+        "outputPath": "C:\\workspace\\CSharp-Essencial-.NET7\\POO\\12Interfaces_exercicio\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Lukka\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -1,0 +1,15 @@
+C:\workspace\CSharp-Essencial-.NET7\POO\16Polimorfismo2\bin\Debug\net7.0\16Polimorfismo2.exe
+C:\workspace\CSharp-Essencial-.NET7\POO\16Polimorfismo2\bin\Debug\net7.0\16Polimorfismo2.deps.json
+C:\workspace\CSharp-Essencial-.NET7\POO\16Polimorfismo2\bin\Debug\net7.0\16Polimorfismo2.runtimeconfig.json
+C:\workspace\CSharp-Essencial-.NET7\POO\16Polimorfismo2\bin\Debug\net7.0\16Polimorfismo2.dll
+C:\workspace\CSharp-Essencial-.NET7\POO\16Polimorfismo2\bin\Debug\net7.0\16Polimorfismo2.pdb
+C:\workspace\CSharp-Essencial-.NET7\POO\16Polimorfismo2\obj\Debug\net7.0\16Polimorfismo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CSharp-Essencial-.NET7\POO\16Polimorfismo2\obj\Debug\net7.0\16Polimorfismo2.AssemblyInfoInputs.cache
+C:\workspace\CSharp-Essencial-.NET7\POO\16Polimorfismo2\obj\Debug\net7.0\16Polimorfismo2.AssemblyInfo.cs
+C:\workspace\CSharp-Essencial-.NET7\POO\16Polimorfismo2\obj\Debug\net7.0\16Polimorfismo2.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp-Essencial-.NET7\POO\16Polimorfismo2\obj\Debug\net7.0\16Polimorfismo2.sourcelink.json
+C:\workspace\CSharp-Essencial-.NET7\POO\16Polimorfismo2\obj\Debug\net7.0\16Polimorfismo2.dll
+C:\workspace\CSharp-Essencial-.NET7\POO\16Polimorfismo2\obj\Debug\net7.0\refint\16Polimorfismo2.dll
+C:\workspace\CSharp-Essencial-.NET7\POO\16Polimorfismo2\obj\Debug\net7.0\16Polimorfismo2.pdb
+C:\workspace\CSharp-Essencial-.NET7\POO\16Polimorfismo2\obj\Debug\net7.0\16Polimorfismo2.genruntimeconfig.cache
+C:\workspace\CSharp-Essencial-.NET7\POO\16Polimorfismo2\obj\Debug\net7.0\ref\16Polimorfismo2.dll
