@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\12SortedSet\bin\Debug\net7.0\12SortedSet.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\12SortedSet\bin\Debug\net7.0\12SortedSet.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\12SortedSet\bin\Debug\net7.0\12SortedSet.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\12SortedSet\bin\Debug\net7.0\12SortedSet.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\12SortedSet\bin\Debug\net7.0\12SortedSet.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\12SortedSet\obj\Debug\net7.0\12SortedSet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\12SortedSet\obj\Debug\net7.0\12SortedSet.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\12SortedSet\obj\Debug\net7.0\12SortedSet.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\12SortedSet\obj\Debug\net7.0\12SortedSet.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\12SortedSet\obj\Debug\net7.0\12SortedSet.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\12SortedSet\obj\Debug\net7.0\12SortedSet.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\12SortedSet\obj\Debug\net7.0\refint\12SortedSet.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\12SortedSet\obj\Debug\net7.0\12SortedSet.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\12SortedSet\obj\Debug\net7.0\12SortedSet.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\12SortedSet\obj\Debug\net7.0\ref\12SortedSet.dll

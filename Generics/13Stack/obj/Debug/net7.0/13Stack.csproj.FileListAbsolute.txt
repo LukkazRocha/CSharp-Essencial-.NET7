@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\13Stack\bin\Debug\net7.0\13Stack.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\13Stack\bin\Debug\net7.0\13Stack.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\13Stack\bin\Debug\net7.0\13Stack.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\13Stack\bin\Debug\net7.0\13Stack.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\13Stack\bin\Debug\net7.0\13Stack.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\13Stack\obj\Debug\net7.0\13Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\13Stack\obj\Debug\net7.0\13Stack.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\13Stack\obj\Debug\net7.0\13Stack.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\13Stack\obj\Debug\net7.0\13Stack.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\13Stack\obj\Debug\net7.0\13Stack.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\13Stack\obj\Debug\net7.0\13Stack.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\13Stack\obj\Debug\net7.0\refint\13Stack.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\13Stack\obj\Debug\net7.0\13Stack.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\13Stack\obj\Debug\net7.0\13Stack.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\13Stack\obj\Debug\net7.0\ref\13Stack.dll

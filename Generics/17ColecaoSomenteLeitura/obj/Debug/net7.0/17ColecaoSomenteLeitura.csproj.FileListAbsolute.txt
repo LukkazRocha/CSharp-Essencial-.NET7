@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\17ColecaoSomenteLeitura\bin\Debug\net7.0\17ColecaoSomenteLeitura.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\17ColecaoSomenteLeitura\bin\Debug\net7.0\17ColecaoSomenteLeitura.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\17ColecaoSomenteLeitura\bin\Debug\net7.0\17ColecaoSomenteLeitura.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\17ColecaoSomenteLeitura\bin\Debug\net7.0\17ColecaoSomenteLeitura.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\17ColecaoSomenteLeitura\bin\Debug\net7.0\17ColecaoSomenteLeitura.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\17ColecaoSomenteLeitura\obj\Debug\net7.0\17ColecaoSomenteLeitura.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\17ColecaoSomenteLeitura\obj\Debug\net7.0\17ColecaoSomenteLeitura.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\17ColecaoSomenteLeitura\obj\Debug\net7.0\17ColecaoSomenteLeitura.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\17ColecaoSomenteLeitura\obj\Debug\net7.0\17ColecaoSomenteLeitura.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\17ColecaoSomenteLeitura\obj\Debug\net7.0\17ColecaoSomenteLeitura.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\17ColecaoSomenteLeitura\obj\Debug\net7.0\17ColecaoSomenteLeitura.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\17ColecaoSomenteLeitura\obj\Debug\net7.0\refint\17ColecaoSomenteLeitura.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\17ColecaoSomenteLeitura\obj\Debug\net7.0\17ColecaoSomenteLeitura.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\17ColecaoSomenteLeitura\obj\Debug\net7.0\17ColecaoSomenteLeitura.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\17ColecaoSomenteLeitura\obj\Debug\net7.0\ref\17ColecaoSomenteLeitura.dll

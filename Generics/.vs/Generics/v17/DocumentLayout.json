@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Generics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2D9CC3B-88EC-4175-A9C8-C8ADBCD0C7AC}|09SortedDictionary\\09SortedDictionary.csproj|d:\\lucas\\workspace\\csharp-essencial-.net7\\generics\\09sorteddictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2D9CC3B-88EC-4175-A9C8-C8ADBCD0C7AC}|09SortedDictionary\\09SortedDictionary.csproj|solutionrelative:09sorteddictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45904BF0-F4E6-4F1F-82AF-04F669956F94}|19ColecaoSomenteLeitura\\19ColecaoSomenteLeitura.csproj|d:\\lucas\\workspace\\csharp-essencial-.net7\\generics\\19colecaosomenteleitura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45904BF0-F4E6-4F1F-82AF-04F669956F94}|19ColecaoSomenteLeitura\\19ColecaoSomenteLeitura.csproj|solutionrelative:19colecaosomenteleitura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A025624-C4F1-4F54-A44C-7DFBDD75F0F4}|08Dictionary_Exercicio\\08Dictionary_Exercicio.csproj|d:\\lucas\\workspace\\csharp-essencial-.net7\\generics\\08dictionary_exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A025624-C4F1-4F54-A44C-7DFBDD75F0F4}|08Dictionary_Exercicio\\08Dictionary_Exercicio.csproj|solutionrelative:08dictionary_exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E876B5ED-751E-4E7F-B5BC-E0BC95AE5E03}|18ColecaoSomenteLeitura2\\18ColecaoSomenteLeitura2.csproj|d:\\lucas\\workspace\\csharp-essencial-.net7\\generics\\18colecaosomenteleitura2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E876B5ED-751E-4E7F-B5BC-E0BC95AE5E03}|18ColecaoSomenteLeitura2\\18ColecaoSomenteLeitura2.csproj|solutionrelative:18colecaosomenteleitura2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,28 +70,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Generics\\09SortedDictionary\\Program.cs",
-              "RelativeDocumentMoniker": "09SortedDictionary\\Program.cs",
-              "ToolTip": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Generics\\09SortedDictionary\\Program.cs",
-              "RelativeToolTip": "09SortedDictionary\\Program.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAcwC8AAAABAAAA",
+              "DocumentMoniker": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Generics\\18ColecaoSomenteLeitura2\\Program.cs",
+              "RelativeDocumentMoniker": "18ColecaoSomenteLeitura2\\Program.cs",
+              "ToolTip": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Generics\\18ColecaoSomenteLeitura2\\Program.cs",
+              "RelativeToolTip": "18ColecaoSomenteLeitura2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T07:34:30.723Z",
+              "WhenOpened": "2024-11-10T18:52:49.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Generics\\08Dictionary_Exercicio\\Program.cs",
-              "RelativeDocumentMoniker": "08Dictionary_Exercicio\\Program.cs",
-              "ToolTip": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Generics\\08Dictionary_Exercicio\\Program.cs",
-              "RelativeToolTip": "08Dictionary_Exercicio\\Program.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAcwF0AAAASAAAA",
+              "DocumentMoniker": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Generics\\19ColecaoSomenteLeitura\\Program.cs",
+              "RelativeDocumentMoniker": "19ColecaoSomenteLeitura\\Program.cs",
+              "ToolTip": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\Generics\\19ColecaoSomenteLeitura\\Program.cs",
+              "RelativeToolTip": "19ColecaoSomenteLeitura\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T06:51:00.142Z",
+              "WhenOpened": "2024-11-10T18:51:45.111Z",
               "EditorCaption": ""
             }
           ]

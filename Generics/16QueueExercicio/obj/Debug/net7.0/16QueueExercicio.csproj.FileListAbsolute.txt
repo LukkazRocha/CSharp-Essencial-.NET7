@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\16QueueExercicio\bin\Debug\net7.0\16QueueExercicio.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\16QueueExercicio\bin\Debug\net7.0\16QueueExercicio.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\16QueueExercicio\bin\Debug\net7.0\16QueueExercicio.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\16QueueExercicio\bin\Debug\net7.0\16QueueExercicio.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\16QueueExercicio\bin\Debug\net7.0\16QueueExercicio.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\16QueueExercicio\obj\Debug\net7.0\16QueueExercicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\16QueueExercicio\obj\Debug\net7.0\16QueueExercicio.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\16QueueExercicio\obj\Debug\net7.0\16QueueExercicio.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\16QueueExercicio\obj\Debug\net7.0\16QueueExercicio.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\16QueueExercicio\obj\Debug\net7.0\16QueueExercicio.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\16QueueExercicio\obj\Debug\net7.0\16QueueExercicio.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\16QueueExercicio\obj\Debug\net7.0\refint\16QueueExercicio.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\16QueueExercicio\obj\Debug\net7.0\16QueueExercicio.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\16QueueExercicio\obj\Debug\net7.0\16QueueExercicio.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\16QueueExercicio\obj\Debug\net7.0\ref\16QueueExercicio.dll

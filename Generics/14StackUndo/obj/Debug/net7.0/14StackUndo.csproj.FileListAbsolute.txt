@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\14StackUndo\bin\Debug\net7.0\14StackUndo.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\14StackUndo\bin\Debug\net7.0\14StackUndo.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\14StackUndo\bin\Debug\net7.0\14StackUndo.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\14StackUndo\bin\Debug\net7.0\14StackUndo.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\14StackUndo\bin\Debug\net7.0\14StackUndo.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\14StackUndo\obj\Debug\net7.0\14StackUndo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\14StackUndo\obj\Debug\net7.0\14StackUndo.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\14StackUndo\obj\Debug\net7.0\14StackUndo.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\14StackUndo\obj\Debug\net7.0\14StackUndo.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\14StackUndo\obj\Debug\net7.0\14StackUndo.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\14StackUndo\obj\Debug\net7.0\14StackUndo.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\14StackUndo\obj\Debug\net7.0\refint\14StackUndo.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\14StackUndo\obj\Debug\net7.0\14StackUndo.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\14StackUndo\obj\Debug\net7.0\14StackUndo.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\14StackUndo\obj\Debug\net7.0\ref\14StackUndo.dll

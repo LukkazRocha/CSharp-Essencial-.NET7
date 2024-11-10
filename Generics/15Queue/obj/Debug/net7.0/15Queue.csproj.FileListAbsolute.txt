@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\15Queue\bin\Debug\net7.0\15Queue.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\15Queue\bin\Debug\net7.0\15Queue.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\15Queue\bin\Debug\net7.0\15Queue.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\15Queue\bin\Debug\net7.0\15Queue.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\15Queue\bin\Debug\net7.0\15Queue.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\15Queue\obj\Debug\net7.0\15Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\15Queue\obj\Debug\net7.0\15Queue.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\15Queue\obj\Debug\net7.0\15Queue.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\15Queue\obj\Debug\net7.0\15Queue.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\15Queue\obj\Debug\net7.0\15Queue.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\15Queue\obj\Debug\net7.0\15Queue.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\15Queue\obj\Debug\net7.0\refint\15Queue.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\15Queue\obj\Debug\net7.0\15Queue.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\15Queue\obj\Debug\net7.0\15Queue.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\15Queue\obj\Debug\net7.0\ref\15Queue.dll

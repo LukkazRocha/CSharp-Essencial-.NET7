@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\11HashSet2\bin\Debug\net7.0\11HashSet2.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\11HashSet2\bin\Debug\net7.0\11HashSet2.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\11HashSet2\bin\Debug\net7.0\11HashSet2.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\11HashSet2\bin\Debug\net7.0\11HashSet2.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\11HashSet2\bin\Debug\net7.0\11HashSet2.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\11HashSet2\obj\Debug\net7.0\11HashSet2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\11HashSet2\obj\Debug\net7.0\11HashSet2.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\11HashSet2\obj\Debug\net7.0\11HashSet2.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\11HashSet2\obj\Debug\net7.0\11HashSet2.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\11HashSet2\obj\Debug\net7.0\11HashSet2.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\11HashSet2\obj\Debug\net7.0\11HashSet2.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\11HashSet2\obj\Debug\net7.0\refint\11HashSet2.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\11HashSet2\obj\Debug\net7.0\11HashSet2.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\11HashSet2\obj\Debug\net7.0\11HashSet2.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\11HashSet2\obj\Debug\net7.0\ref\11HashSet2.dll
