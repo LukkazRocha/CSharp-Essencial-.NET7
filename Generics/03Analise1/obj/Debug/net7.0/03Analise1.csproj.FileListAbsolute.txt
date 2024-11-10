@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\03Analise1\bin\Debug\net7.0\03Analise1.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\03Analise1\bin\Debug\net7.0\03Analise1.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\03Analise1\bin\Debug\net7.0\03Analise1.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\03Analise1\bin\Debug\net7.0\03Analise1.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\03Analise1\bin\Debug\net7.0\03Analise1.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\03Analise1\obj\Debug\net7.0\03Analise1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\03Analise1\obj\Debug\net7.0\03Analise1.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\03Analise1\obj\Debug\net7.0\03Analise1.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\03Analise1\obj\Debug\net7.0\03Analise1.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\03Analise1\obj\Debug\net7.0\03Analise1.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\03Analise1\obj\Debug\net7.0\03Analise1.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\03Analise1\obj\Debug\net7.0\refint\03Analise1.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\03Analise1\obj\Debug\net7.0\03Analise1.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\03Analise1\obj\Debug\net7.0\03Analise1.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\03Analise1\obj\Debug\net7.0\ref\03Analise1.dll

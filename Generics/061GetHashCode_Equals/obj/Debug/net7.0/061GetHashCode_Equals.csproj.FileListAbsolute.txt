@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\061GetHashCode_Equals\bin\Debug\net7.0\061GetHashCode_Equals.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\061GetHashCode_Equals\bin\Debug\net7.0\061GetHashCode_Equals.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\061GetHashCode_Equals\bin\Debug\net7.0\061GetHashCode_Equals.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\061GetHashCode_Equals\bin\Debug\net7.0\061GetHashCode_Equals.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\061GetHashCode_Equals\bin\Debug\net7.0\061GetHashCode_Equals.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\061GetHashCode_Equals\obj\Debug\net7.0\061GetHashCode_Equals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\061GetHashCode_Equals\obj\Debug\net7.0\061GetHashCode_Equals.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\061GetHashCode_Equals\obj\Debug\net7.0\061GetHashCode_Equals.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\061GetHashCode_Equals\obj\Debug\net7.0\061GetHashCode_Equals.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\061GetHashCode_Equals\obj\Debug\net7.0\061GetHashCode_Equals.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\061GetHashCode_Equals\obj\Debug\net7.0\061GetHashCode_Equals.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\061GetHashCode_Equals\obj\Debug\net7.0\refint\061GetHashCode_Equals.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\061GetHashCode_Equals\obj\Debug\net7.0\061GetHashCode_Equals.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\061GetHashCode_Equals\obj\Debug\net7.0\061GetHashCode_Equals.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\061GetHashCode_Equals\obj\Debug\net7.0\ref\061GetHashCode_Equals.dll

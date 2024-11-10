@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\7Dictionary\bin\Debug\net7.0\7Dictionary.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\7Dictionary\bin\Debug\net7.0\7Dictionary.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\7Dictionary\bin\Debug\net7.0\7Dictionary.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\7Dictionary\bin\Debug\net7.0\7Dictionary.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\7Dictionary\bin\Debug\net7.0\7Dictionary.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\7Dictionary\obj\Debug\net7.0\7Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\7Dictionary\obj\Debug\net7.0\7Dictionary.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\7Dictionary\obj\Debug\net7.0\7Dictionary.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\7Dictionary\obj\Debug\net7.0\7Dictionary.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\7Dictionary\obj\Debug\net7.0\7Dictionary.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\7Dictionary\obj\Debug\net7.0\7Dictionary.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\7Dictionary\obj\Debug\net7.0\refint\7Dictionary.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\7Dictionary\obj\Debug\net7.0\7Dictionary.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\7Dictionary\obj\Debug\net7.0\7Dictionary.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\7Dictionary\obj\Debug\net7.0\ref\7Dictionary.dll

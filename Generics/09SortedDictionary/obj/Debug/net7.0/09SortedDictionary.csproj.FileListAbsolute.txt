@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\09SortedDictionary\bin\Debug\net7.0\09SortedDictionary.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\09SortedDictionary\bin\Debug\net7.0\09SortedDictionary.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\09SortedDictionary\bin\Debug\net7.0\09SortedDictionary.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\09SortedDictionary\bin\Debug\net7.0\09SortedDictionary.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\09SortedDictionary\bin\Debug\net7.0\09SortedDictionary.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\09SortedDictionary\obj\Debug\net7.0\09SortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\09SortedDictionary\obj\Debug\net7.0\09SortedDictionary.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\09SortedDictionary\obj\Debug\net7.0\09SortedDictionary.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\09SortedDictionary\obj\Debug\net7.0\09SortedDictionary.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\09SortedDictionary\obj\Debug\net7.0\09SortedDictionary.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\09SortedDictionary\obj\Debug\net7.0\09SortedDictionary.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\09SortedDictionary\obj\Debug\net7.0\refint\09SortedDictionary.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\09SortedDictionary\obj\Debug\net7.0\09SortedDictionary.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\09SortedDictionary\obj\Debug\net7.0\09SortedDictionary.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\Generics\09SortedDictionary\obj\Debug\net7.0\ref\09SortedDictionary.dll
