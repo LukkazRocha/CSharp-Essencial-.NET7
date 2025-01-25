@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\03FiltrarExcecoes\bin\Debug\net7.0\03FiltrarExcecoes.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\03FiltrarExcecoes\bin\Debug\net7.0\03FiltrarExcecoes.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\03FiltrarExcecoes\bin\Debug\net7.0\03FiltrarExcecoes.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\03FiltrarExcecoes\bin\Debug\net7.0\03FiltrarExcecoes.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\03FiltrarExcecoes\bin\Debug\net7.0\03FiltrarExcecoes.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\03FiltrarExcecoes\obj\Debug\net7.0\03FiltrarExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\03FiltrarExcecoes\obj\Debug\net7.0\03FiltrarExcecoes.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\03FiltrarExcecoes\obj\Debug\net7.0\03FiltrarExcecoes.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\03FiltrarExcecoes\obj\Debug\net7.0\03FiltrarExcecoes.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\03FiltrarExcecoes\obj\Debug\net7.0\03FiltrarExcecoes.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\03FiltrarExcecoes\obj\Debug\net7.0\03FiltrarExcecoes.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\03FiltrarExcecoes\obj\Debug\net7.0\refint\03FiltrarExcecoes.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\03FiltrarExcecoes\obj\Debug\net7.0\03FiltrarExcecoes.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\03FiltrarExcecoes\obj\Debug\net7.0\03FiltrarExcecoes.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\03FiltrarExcecoes\obj\Debug\net7.0\ref\03FiltrarExcecoes.dll

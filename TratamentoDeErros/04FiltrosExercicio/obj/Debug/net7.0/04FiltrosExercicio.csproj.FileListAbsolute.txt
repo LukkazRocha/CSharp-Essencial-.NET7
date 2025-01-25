@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\04FiltrosExercicio\bin\Debug\net7.0\04FiltrosExercicio.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\04FiltrosExercicio\bin\Debug\net7.0\04FiltrosExercicio.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\04FiltrosExercicio\bin\Debug\net7.0\04FiltrosExercicio.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\04FiltrosExercicio\bin\Debug\net7.0\04FiltrosExercicio.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\04FiltrosExercicio\bin\Debug\net7.0\04FiltrosExercicio.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\04FiltrosExercicio\obj\Debug\net7.0\04FiltrosExercicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\04FiltrosExercicio\obj\Debug\net7.0\04FiltrosExercicio.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\04FiltrosExercicio\obj\Debug\net7.0\04FiltrosExercicio.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\04FiltrosExercicio\obj\Debug\net7.0\04FiltrosExercicio.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\04FiltrosExercicio\obj\Debug\net7.0\04FiltrosExercicio.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\04FiltrosExercicio\obj\Debug\net7.0\04FiltrosExercicio.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\04FiltrosExercicio\obj\Debug\net7.0\refint\04FiltrosExercicio.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\04FiltrosExercicio\obj\Debug\net7.0\04FiltrosExercicio.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\04FiltrosExercicio\obj\Debug\net7.0\04FiltrosExercicio.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\04FiltrosExercicio\obj\Debug\net7.0\ref\04FiltrosExercicio.dll

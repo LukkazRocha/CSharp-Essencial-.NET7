@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\02LancandoExceptions\bin\Debug\net7.0\02LancandoExceptions.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\02LancandoExceptions\bin\Debug\net7.0\02LancandoExceptions.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\02LancandoExceptions\bin\Debug\net7.0\02LancandoExceptions.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\02LancandoExceptions\bin\Debug\net7.0\02LancandoExceptions.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\02LancandoExceptions\bin\Debug\net7.0\02LancandoExceptions.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\02LancandoExceptions\obj\Debug\net7.0\02LancandoExceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\02LancandoExceptions\obj\Debug\net7.0\02LancandoExceptions.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\02LancandoExceptions\obj\Debug\net7.0\02LancandoExceptions.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\02LancandoExceptions\obj\Debug\net7.0\02LancandoExceptions.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\02LancandoExceptions\obj\Debug\net7.0\02LancandoExceptions.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\02LancandoExceptions\obj\Debug\net7.0\02LancandoExceptions.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\02LancandoExceptions\obj\Debug\net7.0\refint\02LancandoExceptions.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\02LancandoExceptions\obj\Debug\net7.0\02LancandoExceptions.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\02LancandoExceptions\obj\Debug\net7.0\02LancandoExceptions.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\02LancandoExceptions\obj\Debug\net7.0\ref\02LancandoExceptions.dll

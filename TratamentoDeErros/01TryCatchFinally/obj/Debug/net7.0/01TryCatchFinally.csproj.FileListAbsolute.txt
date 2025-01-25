@@ -1,0 +1,15 @@
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\01TryCatchFinally\bin\Debug\net7.0\01TryCatchFinally.exe
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\01TryCatchFinally\bin\Debug\net7.0\01TryCatchFinally.deps.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\01TryCatchFinally\bin\Debug\net7.0\01TryCatchFinally.runtimeconfig.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\01TryCatchFinally\bin\Debug\net7.0\01TryCatchFinally.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\01TryCatchFinally\bin\Debug\net7.0\01TryCatchFinally.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\01TryCatchFinally\obj\Debug\net7.0\01TryCatchFinally.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\01TryCatchFinally\obj\Debug\net7.0\01TryCatchFinally.AssemblyInfoInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\01TryCatchFinally\obj\Debug\net7.0\01TryCatchFinally.AssemblyInfo.cs
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\01TryCatchFinally\obj\Debug\net7.0\01TryCatchFinally.csproj.CoreCompileInputs.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\01TryCatchFinally\obj\Debug\net7.0\01TryCatchFinally.sourcelink.json
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\01TryCatchFinally\obj\Debug\net7.0\01TryCatchFinally.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\01TryCatchFinally\obj\Debug\net7.0\refint\01TryCatchFinally.dll
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\01TryCatchFinally\obj\Debug\net7.0\01TryCatchFinally.pdb
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\01TryCatchFinally\obj\Debug\net7.0\01TryCatchFinally.genruntimeconfig.cache
+D:\Lucas\workspace\CSharp-Essencial-.NET7\TratamentoDeErros\01TryCatchFinally\obj\Debug\net7.0\ref\01TryCatchFinally.dll
