@@ -16,9 +16,4 @@ static void Metodo2(string mensagem)
     Console.WriteLine("Método 2: " + mensagem);
 }
 
-static void Metodo2(string mensagem)
-{
-    Console.WriteLine("Método 2: " + mensagem);
-}
-
 public delegate void MeuDelegate(string mensagem);
