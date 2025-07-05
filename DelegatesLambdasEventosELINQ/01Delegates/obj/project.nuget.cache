@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "npfkbW8OZwo=",
+  "dgSpecHash": "rSkTecfTSS8=",
   "success": true,
   "projectFilePath": "D:\\Lucas\\workspace\\CSharp-Essencial-.NET7\\DelegatesLambdasEventosELINQ\\01Delegates\\01Delegates.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Lukka\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.300\\microsoft.net.sdk.compilers.toolset.9.0.300.nupkg.sha512"
+  ],
   "logs": []
 }
